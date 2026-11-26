@@ -1,0 +1,15 @@
+papers using a major-provider closed model   20,575
+  >=1 model matched to official lifecycle dates  17,829 (86.7%)
+  >=1 deprecated (or shut-down) model            14,723 (71.6%)
+  >=1 shut-down model                            7,067 (34.3%)
+  every closed model shut down                   1,348
+closed-model mentions                        56,359
+  resolved to a dated release                    40,404 (71.7%)
+  exact snapshot specified                       7,909 (14.0%)
+
+cumulative papers by event year (Figure 1)
+year  >=1 deprecated  >=1 shut down
+2023           1,475             68
+2024           2,958          2,777
+2025           5,437          4,847
+2026          14,723          7,067

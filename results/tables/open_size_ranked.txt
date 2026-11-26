@@ -1,0 +1,11 @@
+size   #papers  most-used model families
+7B      12,198  mistral, llama-2
+8B       8,826  llama-3.1, llama-3
+70B      4,605  llama-3, llama-3.1
+13B      3,694  llama-2, vicuna
+3B       2,728  llama-3.2, qwen2.5
+32B      2,109  qwen2.5, qwen3
+72B      1,968  qwen2.5, qwen2.5-vl
+14B      1,875  qwen2.5, qwen3
+9B       1,467  gemma-2, glm-4
+1B       1,274  llama-3.2, pythia

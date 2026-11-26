@@ -1,0 +1,26 @@
+Papers using >=1 closed model of the three major providers: 20,575 (27.8% of 74,029; 47.8% of the LLM era)
+
+OpenAI (19,619 papers)
+  gpt-4                   6,513
+  gpt-4o                  6,502
+  chatgpt                 3,625
+  gpt-3.5-turbo           3,513
+  gpt-3.5                 2,988
+Google (4,793 papers)
+  gemini                    935
+  gemini-2.5-pro            740
+  gemini-2.5-flash          670
+  gemini-1.5-pro            640
+  gemini-2.0-flash          510
+Anthropic (3,383 papers)
+  claude-3.5-sonnet         972
+  claude                    548
+  claude-3.7-sonnet         337
+  claude-sonnet-4           302
+  claude-3-opus             278
+Others (1,716 papers)
+  alibaba                   566
+  zhipu                     397
+  xai                       247
+  bytedance                 203
+  moonshot                  169

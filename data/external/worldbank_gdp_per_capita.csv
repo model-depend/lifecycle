@@ -1,0 +1,1573 @@
+country,iso3,country_name,region,income_group,year,gdp_pc_ppp
+AF,AFG,Afghanistan,Middle East & North Africa,Low income,2018,2902.3921128554607
+AF,AFG,Afghanistan,Middle East & North Africa,Low income,2019,2927.245143535302
+AF,AFG,Afghanistan,Middle East & North Africa,Low income,2020,2769.68574507111
+AF,AFG,Afghanistan,Middle East & North Africa,Low income,2021,2144.166570028188
+AF,AFG,Afghanistan,Middle East & North Africa,Low income,2022,1981.7101681056113
+AF,AFG,Afghanistan,Middle East & North Africa,Low income,2023,1983.8126199290873
+AF,AFG,Afghanistan,Middle East & North Africa,Low income,2024,1964.4522889545608
+AL,ALB,Albania,Europe & Central Asia,Upper middle income,2018,16170.923432528702
+AL,ALB,Albania,Europe & Central Asia,Upper middle income,2019,16761.12301786816
+AL,ALB,Albania,Europe & Central Asia,Upper middle income,2020,16457.71897449906
+AL,ALB,Albania,Europe & Central Asia,Upper middle income,2021,18212.794718287976
+AL,ALB,Albania,Europe & Central Asia,Upper middle income,2022,19388.792727935066
+AL,ALB,Albania,Europe & Central Asia,Upper middle income,2023,20501.64707267415
+AL,ALB,Albania,Europe & Central Asia,Upper middle income,2024,21640.98357732714
+AL,ALB,Albania,Europe & Central Asia,Upper middle income,2025,22724.293819494895
+DZ,DZA,Algeria,Middle East & North Africa,Upper middle income,2018,15343.42612224341
+DZ,DZA,Algeria,Middle East & North Africa,Upper middle income,2019,15199.198996563926
+DZ,DZA,Algeria,Middle East & North Africa,Upper middle income,2020,14194.155747961899
+DZ,DZA,Algeria,Middle East & North Africa,Upper middle income,2021,14496.865469729873
+DZ,DZA,Algeria,Middle East & North Africa,Upper middle income,2022,14782.20029702472
+DZ,DZA,Algeria,Middle East & North Africa,Upper middle income,2023,15159.324237341518
+DZ,DZA,Algeria,Middle East & North Africa,Upper middle income,2024,15501.919700396595
+DZ,DZA,Algeria,Middle East & North Africa,Upper middle income,2025,15882.713883632765
+AD,AND,Andorra,Europe & Central Asia,High income,2018,63048.598557283374
+AD,AND,Andorra,Europe & Central Asia,High income,2019,63215.89979191298
+AD,AND,Andorra,Europe & Central Asia,High income,2020,55488.49029910951
+AD,AND,Andorra,Europe & Central Asia,High income,2021,59332.20291001272
+AD,AND,Andorra,Europe & Central Asia,High income,2022,63913.38350791049
+AD,AND,Andorra,Europe & Central Asia,High income,2023,64631.29639092712
+AD,AND,Andorra,Europe & Central Asia,High income,2024,66232.74441955978
+AD,AND,Andorra,Europe & Central Asia,High income,2025,67993.05241788825
+AO,AGO,Angola,Sub-Saharan Africa,Lower middle income,2018,10154.838922800502
+AO,AGO,Angola,Sub-Saharan Africa,Lower middle income,2019,9712.97944927269
+AO,AGO,Angola,Sub-Saharan Africa,Lower middle income,2020,8904.949005801678
+AO,AGO,Angola,Sub-Saharan Africa,Lower middle income,2021,8720.187687421234
+AO,AGO,Angola,Sub-Saharan Africa,Lower middle income,2022,8750.99363032299
+AO,AGO,Angola,Sub-Saharan Africa,Lower middle income,2023,8597.538787875537
+AO,AGO,Angola,Sub-Saharan Africa,Lower middle income,2024,8752.797470983303
+AO,AGO,Angola,Sub-Saharan Africa,Lower middle income,2025,8760.190819631507
+AG,ATG,Antigua and Barbuda,Latin America & Caribbean,High income,2018,28878.606767547084
+AG,ATG,Antigua and Barbuda,Latin America & Caribbean,High income,2019,29651.86415267051
+AG,ATG,Antigua and Barbuda,Latin America & Caribbean,High income,2020,23930.671499511478
+AG,ATG,Antigua and Barbuda,Latin America & Caribbean,High income,2021,25745.495806774616
+AG,ATG,Antigua and Barbuda,Latin America & Caribbean,High income,2022,27785.55723168384
+AG,ATG,Antigua and Barbuda,Latin America & Caribbean,High income,2023,28712.397049219224
+AG,ATG,Antigua and Barbuda,Latin America & Caribbean,High income,2024,29298.64741647266
+AG,ATG,Antigua and Barbuda,Latin America & Caribbean,High income,2025,30620.307555385883
+AR,ARG,Argentina,Latin America & Caribbean,Upper middle income,2018,27367.115094107976
+AR,ARG,Argentina,Latin America & Caribbean,Upper middle income,2019,26629.552941950053
+AR,ARG,Argentina,Latin America & Caribbean,Upper middle income,2020,23877.093140485536
+AR,ARG,Argentina,Latin America & Caribbean,Upper middle income,2021,26300.274261175044
+AR,ARG,Argentina,Latin America & Caribbean,Upper middle income,2022,27825.0273492567
+AR,ARG,Argentina,Latin America & Caribbean,Upper middle income,2023,27230.396849668192
+AR,ARG,Argentina,Latin America & Caribbean,Upper middle income,2024,26771.96576505708
+AR,ARG,Argentina,Latin America & Caribbean,Upper middle income,2025,27846.598459723915
+AM,ARM,Armenia,Europe & Central Asia,Upper middle income,2018,15037.045242071204
+AM,ARM,Armenia,Europe & Central Asia,Upper middle income,2019,16215.360796509412
+AM,ARM,Armenia,Europe & Central Asia,Upper middle income,2020,15052.93597911361
+AM,ARM,Armenia,Europe & Central Asia,Upper middle income,2021,15921.705281964018
+AM,ARM,Armenia,Europe & Central Asia,Upper middle income,2022,17886.178387716784
+AM,ARM,Armenia,Europe & Central Asia,Upper middle income,2023,19402.75109155784
+AM,ARM,Armenia,Europe & Central Asia,Upper middle income,2024,20078.784898484384
+AM,ARM,Armenia,Europe & Central Asia,Upper middle income,2025,21153.478328571015
+AW,ABW,Aruba,Latin America & Caribbean,High income,2018,39378.22841090465
+AW,ABW,Aruba,Latin America & Caribbean,High income,2019,39754.56007221495
+AW,ABW,Aruba,Latin America & Caribbean,High income,2020,30408.82709019835
+AW,ABW,Aruba,Latin America & Caribbean,High income,2021,35207.170908863925
+AW,ABW,Aruba,Latin America & Caribbean,High income,2022,39083.461639850706
+AW,ABW,Aruba,Latin America & Caribbean,High income,2023,42783.24890720672
+AW,ABW,Aruba,Latin America & Caribbean,High income,2024,45428.00272835179
+AU,AUS,Australia,East Asia & Pacific,High income,2018,57647.845506810496
+AU,AUS,Australia,East Asia & Pacific,High income,2019,58048.61884208314
+AU,AUS,Australia,East Asia & Pacific,High income,2020,57260.46505301084
+AU,AUS,Australia,East Asia & Pacific,High income,2021,58327.414684232484
+AU,AUS,Australia,East Asia & Pacific,High income,2022,60029.13291907325
+AU,AUS,Australia,East Asia & Pacific,High income,2023,60684.95962048829
+AU,AUS,Australia,East Asia & Pacific,High income,2024,60309.583177233944
+AU,AUS,Australia,East Asia & Pacific,High income,2025,60194.06335479612
+AT,AUT,Austria,Europe & Central Asia,High income,2018,63777.9362157476
+AT,AUT,Austria,Europe & Central Asia,High income,2019,64609.283639689456
+AT,AUT,Austria,Europe & Central Asia,High income,2020,60276.33076973262
+AT,AUT,Austria,Europe & Central Asia,High income,2021,62968.85387701863
+AT,AUT,Austria,Europe & Central Asia,High income,2022,65694.45915014677
+AT,AUT,Austria,Europe & Central Asia,High income,2023,64536.2076307547
+AT,AUT,Austria,Europe & Central Asia,High income,2024,63787.9891749462
+AT,AUT,Austria,Europe & Central Asia,High income,2025,63970.40085348593
+AZ,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,2018,19781.850905843694
+AZ,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,2019,20101.491875147043
+AZ,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,2020,19126.096851125993
+AZ,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,2021,20111.375695210878
+AZ,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,2022,21051.24422916121
+AZ,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,2023,21310.738691502233
+AZ,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,2024,22090.529802692923
+AZ,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,2025,22314.216895733265
+BS,BHS,"Bahamas, The",Latin America & Caribbean,High income,2018,33650.21643509353
+BS,BHS,"Bahamas, The",Latin America & Caribbean,High income,2019,33202.49021050685
+BS,BHS,"Bahamas, The",Latin America & Caribbean,High income,2020,26452.69576092903
+BS,BHS,"Bahamas, The",Latin America & Caribbean,High income,2021,31064.682216619418
+BS,BHS,"Bahamas, The",Latin America & Caribbean,High income,2022,34342.92853165692
+BS,BHS,"Bahamas, The",Latin America & Caribbean,High income,2023,35221.26969323129
+BS,BHS,"Bahamas, The",Latin America & Caribbean,High income,2024,36244.05001232444
+BH,BHR,Bahrain,Middle East & North Africa,High income,2018,54893.072441136785
+BH,BHR,Bahrain,Middle East & North Africa,High income,2019,56749.96283706122
+BH,BHR,Bahrain,Middle East & North Africa,High income,2020,53814.24525923582
+BH,BHR,Bahrain,Middle East & North Africa,High income,2021,54954.67578955323
+BH,BHR,Bahrain,Middle East & North Africa,High income,2022,57572.997981017965
+BH,BHR,Bahrain,Middle East & North Africa,High income,2023,57819.905183124225
+BH,BHR,Bahrain,Middle East & North Africa,High income,2024,59060.18183631831
+BH,BHR,Bahrain,Middle East & North Africa,High income,2025,60669.63077957724
+BD,BGD,Bangladesh,South Asia,Lower middle income,2018,6392.5933402409055
+BD,BGD,Bangladesh,South Asia,Lower middle income,2019,6838.326116082433
+BD,BGD,Bangladesh,South Asia,Lower middle income,2020,7015.197927970561
+BD,BGD,Bangladesh,South Asia,Lower middle income,2021,7441.069139612541
+BD,BGD,Bangladesh,South Asia,Lower middle income,2022,7888.1638909830435
+BD,BGD,Bangladesh,South Asia,Lower middle income,2023,8242.397989772422
+BD,BGD,Bangladesh,South Asia,Lower middle income,2024,8486.784956605168
+BD,BGD,Bangladesh,South Asia,Lower middle income,2025,8676.755762250801
+BB,BRB,Barbados,Latin America & Caribbean,High income,2018,19877.675956923464
+BB,BRB,Barbados,Latin America & Caribbean,High income,2019,19890.45571409404
+BB,BRB,Barbados,Latin America & Caribbean,High income,2020,16399.70201114048
+BB,BRB,Barbados,Latin America & Caribbean,High income,2021,17686.74693862888
+BB,BRB,Barbados,Latin America & Caribbean,High income,2022,20494.53438369361
+BB,BRB,Barbados,Latin America & Caribbean,High income,2023,20865.015543714722
+BB,BRB,Barbados,Latin America & Caribbean,High income,2024,21557.527635038492
+BB,BRB,Barbados,Latin America & Caribbean,High income,2025,22127.36049797184
+BY,BLR,Belarus,Europe & Central Asia,Upper middle income,2018,26363.46297785364
+BY,BLR,Belarus,Europe & Central Asia,Upper middle income,2019,26798.820639807636
+BY,BLR,Belarus,Europe & Central Asia,Upper middle income,2020,26731.495386992214
+BY,BLR,Belarus,Europe & Central Asia,Upper middle income,2021,27611.180113515707
+BY,BLR,Belarus,Europe & Central Asia,Upper middle income,2022,26537.50830816744
+BY,BLR,Belarus,Europe & Central Asia,Upper middle income,2023,27782.43801399673
+BY,BLR,Belarus,Europe & Central Asia,Upper middle income,2024,29135.946513923205
+BY,BLR,Belarus,Europe & Central Asia,Upper middle income,2025,29666.211571911696
+BE,BEL,Belgium,Europe & Central Asia,High income,2018,59357.68968843961
+BE,BEL,Belgium,Europe & Central Asia,High income,2019,60479.97699554686
+BE,BEL,Belgium,Europe & Central Asia,High income,2020,57333.542413792406
+BE,BEL,Belgium,Europe & Central Asia,High income,2021,60669.21377465336
+BE,BEL,Belgium,Europe & Central Asia,High income,2022,62602.92704697653
+BE,BEL,Belgium,Europe & Central Asia,High income,2023,63042.00998763087
+BE,BEL,Belgium,Europe & Central Asia,High income,2024,63311.27669171783
+BE,BEL,Belgium,Europe & Central Asia,High income,2025,63488.421762252314
+BZ,BLZ,Belize,Latin America & Caribbean,Upper middle income,2018,11451.897941387726
+BZ,BLZ,Belize,Latin America & Caribbean,Upper middle income,2019,11765.974866117622
+BZ,BLZ,Belize,Latin America & Caribbean,Upper middle income,2020,10045.140416374554
+BZ,BLZ,Belize,Latin America & Caribbean,Upper middle income,2021,11716.326781865551
+BZ,BLZ,Belize,Latin America & Caribbean,Upper middle income,2022,12565.364582957618
+BZ,BLZ,Belize,Latin America & Caribbean,Upper middle income,2023,12371.008654534773
+BZ,BLZ,Belize,Latin America & Caribbean,Upper middle income,2024,12621.408196189694
+BZ,BLZ,Belize,Latin America & Caribbean,Upper middle income,2025,12788.842371382603
+BJ,BEN,Benin,Sub-Saharan Africa,Lower middle income,2018,3155.451065062702
+BJ,BEN,Benin,Sub-Saharan Africa,Lower middle income,2019,3281.1047005146465
+BJ,BEN,Benin,Sub-Saharan Africa,Lower middle income,2020,3317.8597222556973
+BJ,BEN,Benin,Sub-Saharan Africa,Lower middle income,2021,3464.2886286745
+BJ,BEN,Benin,Sub-Saharan Africa,Lower middle income,2022,3588.3251993814706
+BJ,BEN,Benin,Sub-Saharan Africa,Lower middle income,2023,3721.2125481480793
+BJ,BEN,Benin,Sub-Saharan Africa,Lower middle income,2024,3901.3258849439226
+BJ,BEN,Benin,Sub-Saharan Africa,Lower middle income,2025,4116.215155948796
+BM,BMU,Bermuda,North America,High income,2018,95643.27340555425
+BM,BMU,Bermuda,North America,High income,2019,95523.96231260263
+BM,BMU,Bermuda,North America,High income,2020,88484.81559979214
+BM,BMU,Bermuda,North America,High income,2021,92319.67148612224
+BM,BMU,Bermuda,North America,High income,2022,97943.05489773222
+BM,BMU,Bermuda,North America,High income,2023,102268.9228032722
+BM,BMU,Bermuda,North America,High income,2024,104299.94435881494
+BT,BTN,Bhutan,South Asia,Lower middle income,2018,13854.85439771577
+BT,BTN,Bhutan,South Asia,Lower middle income,2019,14555.188404584535
+BT,BTN,Bhutan,South Asia,Lower middle income,2020,12979.936948582394
+BT,BTN,Bhutan,South Asia,Lower middle income,2021,13458.812666742977
+BT,BTN,Bhutan,South Asia,Lower middle income,2022,14061.31202745876
+BT,BTN,Bhutan,South Asia,Lower middle income,2023,14610.295909783661
+BT,BTN,Bhutan,South Asia,Lower middle income,2024,15603.887129846908
+BT,BTN,Bhutan,South Asia,Lower middle income,2025,16743.87038545748
+BO,BOL,"Bolivia, Plurinational State of",Latin America & Caribbean,Lower middle income,2018,11920.313507964513
+BO,BOL,"Bolivia, Plurinational State of",Latin America & Caribbean,Lower middle income,2019,11930.915914591844
+BO,BOL,"Bolivia, Plurinational State of",Latin America & Caribbean,Lower middle income,2020,10285.659075022226
+BO,BOL,"Bolivia, Plurinational State of",Latin America & Caribbean,Lower middle income,2021,11202.440983670711
+BO,BOL,"Bolivia, Plurinational State of",Latin America & Caribbean,Lower middle income,2022,11487.714879919436
+BO,BOL,"Bolivia, Plurinational State of",Latin America & Caribbean,Lower middle income,2023,11616.157559515917
+BO,BOL,"Bolivia, Plurinational State of",Latin America & Caribbean,Lower middle income,2024,11329.151806153595
+BO,BOL,"Bolivia, Plurinational State of",Latin America & Caribbean,Lower middle income,2025,11000.534522072765
+BA,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2018,16348.999714535274
+BA,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2019,17029.29719803434
+BA,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2020,16747.035391869464
+BA,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2021,18286.661497717454
+BA,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2022,19298.117076437047
+BA,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2023,19804.91814656348
+BA,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2024,20578.499544681647
+BA,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2025,21178.22600594972
+BW,BWA,Botswana,Sub-Saharan Africa,Upper middle income,2018,17825.018569213007
+BW,BWA,Botswana,Sub-Saharan Africa,Upper middle income,2019,18106.01054711243
+BW,BWA,Botswana,Sub-Saharan Africa,Upper middle income,2020,16289.391358264542
+BW,BWA,Botswana,Sub-Saharan Africa,Upper middle income,2021,17960.625444743728
+BW,BWA,Botswana,Sub-Saharan Africa,Upper middle income,2022,18647.373458883187
+BW,BWA,Botswana,Sub-Saharan Africa,Upper middle income,2023,18932.480271233406
+BW,BWA,Botswana,Sub-Saharan Africa,Upper middle income,2024,18107.61445291302
+BW,BWA,Botswana,Sub-Saharan Africa,Upper middle income,2025,17687.204240793395
+BR,BRA,Brazil,Latin America & Caribbean,Upper middle income,2018,17917.749212335882
+BR,BRA,Brazil,Latin America & Caribbean,Upper middle income,2019,18018.62091515179
+BR,BRA,Brazil,Latin America & Caribbean,Upper middle income,2020,17327.51572494663
+BR,BRA,Brazil,Latin America & Caribbean,Upper middle income,2021,18075.706004906784
+BR,BRA,Brazil,Latin America & Caribbean,Upper middle income,2022,18554.04618285662
+BR,BRA,Brazil,Latin America & Caribbean,Upper middle income,2023,19079.81221340277
+BR,BRA,Brazil,Latin America & Caribbean,Upper middle income,2024,19652.365499171046
+BR,BRA,Brazil,Latin America & Caribbean,Upper middle income,2025,20024.69682569025
+BN,BRN,Brunei Darussalam,East Asia & Pacific,High income,2018,78099.05078025609
+BN,BRN,Brunei Darussalam,East Asia & Pacific,High income,2019,80228.1598170527
+BN,BRN,Brunei Darussalam,East Asia & Pacific,High income,2020,80280.89806406767
+BN,BRN,Brunei Darussalam,East Asia & Pacific,High income,2021,78248.797127611
+BN,BRN,Brunei Darussalam,East Asia & Pacific,High income,2022,76357.82911499603
+BN,BRN,Brunei Darussalam,East Asia & Pacific,High income,2023,76616.70148849809
+BN,BRN,Brunei Darussalam,East Asia & Pacific,High income,2024,79071.7333801445
+BN,BRN,Brunei Darussalam,East Asia & Pacific,High income,2025,78985.12202695095
+BG,BGR,Bulgaria,Europe & Central Asia,High income,2018,27690.89365500499
+BG,BGR,Bulgaria,Europe & Central Asia,High income,2019,29149.921509976022
+BG,BGR,Bulgaria,Europe & Central Asia,High income,2020,28521.20624825962
+BG,BGR,Bulgaria,Europe & Central Asia,High income,2021,30958.983023833225
+BG,BGR,Bulgaria,Europe & Central Asia,High income,2022,32433.658756962646
+BG,BGR,Bulgaria,Europe & Central Asia,High income,2023,33073.68030934533
+BG,BGR,Bulgaria,Europe & Central Asia,High income,2024,34221.38669403625
+BG,BGR,Bulgaria,Europe & Central Asia,High income,2025,35325.531788347434
+BF,BFA,Burkina Faso,Sub-Saharan Africa,Low income,2018,2316.3943207904454
+BF,BFA,Burkina Faso,Sub-Saharan Africa,Low income,2019,2391.5362684448355
+BF,BFA,Burkina Faso,Sub-Saharan Africa,Low income,2020,2380.931718265739
+BF,BFA,Burkina Faso,Sub-Saharan Africa,Low income,2021,2486.4309314776174
+BF,BFA,Burkina Faso,Sub-Saharan Africa,Low income,2022,2469.199569412594
+BF,BFA,Burkina Faso,Sub-Saharan Africa,Low income,2023,2486.2066981287094
+BF,BFA,Burkina Faso,Sub-Saharan Africa,Low income,2024,2548.5024770250375
+BF,BFA,Burkina Faso,Sub-Saharan Africa,Low income,2025,2624.8285827080326
+BI,BDI,Burundi,Sub-Saharan Africa,Low income,2018,1043.4055843403587
+BI,BDI,Burundi,Sub-Saharan Africa,Low income,2019,1054.7259273489824
+BI,BDI,Burundi,Sub-Saharan Africa,Low income,2020,1027.6289627674355
+BI,BDI,Burundi,Sub-Saharan Africa,Low income,2021,1032.3827408199938
+BI,BDI,Burundi,Sub-Saharan Africa,Low income,2022,1028.1113464017922
+BI,BDI,Burundi,Sub-Saharan Africa,Low income,2023,1033.0093734177578
+BI,BDI,Burundi,Sub-Saharan Africa,Low income,2024,1048.05557098193
+BI,BDI,Burundi,Sub-Saharan Africa,Low income,2025,1066.5129924058615
+CV,CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,2018,8531.12961646549
+CV,CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,2019,9111.629931732694
+CV,CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,2020,7207.868539620482
+CV,CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,2021,7685.419213936686
+CV,CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,2022,8850.106691881196
+CV,CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,2023,9228.460453311396
+CV,CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,2024,9825.534100936193
+CV,CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,2025,10395.741504401234
+KH,KHM,Cambodia,East Asia & Pacific,Lower middle income,2018,6050.590882622052
+KH,KHM,Cambodia,East Asia & Pacific,Lower middle income,2019,6448.884559528051
+KH,KHM,Cambodia,East Asia & Pacific,Lower middle income,2020,6128.782437833349
+KH,KHM,Cambodia,East Asia & Pacific,Lower middle income,2021,6225.532654747405
+KH,KHM,Cambodia,East Asia & Pacific,Lower middle income,2022,6458.3681488083985
+KH,KHM,Cambodia,East Asia & Pacific,Lower middle income,2023,6695.291947637226
+KH,KHM,Cambodia,East Asia & Pacific,Lower middle income,2024,7011.581469037028
+KH,KHM,Cambodia,East Asia & Pacific,Lower middle income,2025,7300.080782506343
+CM,CMR,Cameroon,Sub-Saharan Africa,Lower middle income,2018,4851.480039499606
+CM,CMR,Cameroon,Sub-Saharan Africa,Lower middle income,2019,4882.355600288962
+CM,CMR,Cameroon,Sub-Saharan Africa,Lower middle income,2020,4763.481943880655
+CM,CMR,Cameroon,Sub-Saharan Africa,Lower middle income,2021,4793.556282001956
+CM,CMR,Cameroon,Sub-Saharan Africa,Lower middle income,2022,4843.6503820291655
+CM,CMR,Cameroon,Sub-Saharan Africa,Lower middle income,2023,4875.2512076800485
+CM,CMR,Cameroon,Sub-Saharan Africa,Lower middle income,2024,4916.9335401949365
+CM,CMR,Cameroon,Sub-Saharan Africa,Lower middle income,2025,4945.956409653343
+CA,CAN,Canada,North America,High income,2018,57337.46828700332
+CA,CAN,Canada,North America,High income,2019,57583.82307392043
+CA,CAN,Canada,North America,High income,2020,54092.8576890836
+CA,CAN,Canada,North America,High income,2021,56995.09520207115
+CA,CAN,Canada,North America,High income,2022,58583.129986013795
+CA,CAN,Canada,North America,High income,2023,58088.37780779945
+CA,CAN,Canada,North America,High income,2024,57534.09151853351
+CA,CAN,Canada,North America,High income,2025,57989.57846535583
+KY,CYM,Cayman Islands,Latin America & Caribbean,High income,2018,76124.5505976249
+KY,CYM,Cayman Islands,Latin America & Caribbean,High income,2019,77476.84099136094
+KY,CYM,Cayman Islands,Latin America & Caribbean,High income,2020,72183.13590458948
+KY,CYM,Cayman Islands,Latin America & Caribbean,High income,2021,74160.4914000191
+KY,CYM,Cayman Islands,Latin America & Caribbean,High income,2022,76735.3744333338
+KY,CYM,Cayman Islands,Latin America & Caribbean,High income,2023,79580.88728456527
+KY,CYM,Cayman Islands,Latin America & Caribbean,High income,2024,80996.65066416656
+CF,CAF,Central African Republic,Sub-Saharan Africa,Low income,2018,1125.7009174822797
+CF,CAF,Central African Republic,Sub-Saharan Africa,Low income,2019,1145.095636577519
+CF,CAF,Central African Republic,Sub-Saharan Africa,Low income,2020,1136.5705299375754
+CF,CAF,Central African Republic,Sub-Saharan Africa,Low income,2021,1128.5523799645857
+CF,CAF,Central African Republic,Sub-Saharan Africa,Low income,2022,1136.8017110704461
+CF,CAF,Central African Republic,Sub-Saharan Africa,Low income,2023,1132.6764336980382
+CF,CAF,Central African Republic,Sub-Saharan Africa,Low income,2024,1111.2194163888284
+CF,CAF,Central African Republic,Sub-Saharan Africa,Low income,2025,1122.7608334809663
+TD,TCD,Chad,Sub-Saharan Africa,Low income,2018,2552.37036387707
+TD,TCD,Chad,Sub-Saharan Africa,Low income,2019,2604.5315366178907
+TD,TCD,Chad,Sub-Saharan Africa,Low income,2020,2513.0292272930474
+TD,TCD,Chad,Sub-Saharan Africa,Low income,2021,2435.0727465109867
+TD,TCD,Chad,Sub-Saharan Africa,Low income,2022,2449.4825105229634
+TD,TCD,Chad,Sub-Saharan Africa,Low income,2023,2433.533309627074
+TD,TCD,Chad,Sub-Saharan Africa,Low income,2024,2430.732983552709
+TD,TCD,Chad,Sub-Saharan Africa,Low income,2025,2480.509625009239
+CL,CHL,Chile,Latin America & Caribbean,High income,2018,28499.406400040625
+CL,CHL,Chile,Latin America & Caribbean,High income,2019,28227.979050759383
+CL,CHL,Chile,Latin America & Caribbean,High income,2020,26258.40385532415
+CL,CHL,Chile,Latin America & Caribbean,High income,2021,29106.635652205307
+CL,CHL,Chile,Latin America & Caribbean,High income,2022,29560.45138057852
+CL,CHL,Chile,Latin America & Caribbean,High income,2023,29600.418861316757
+CL,CHL,Chile,Latin America & Caribbean,High income,2024,30267.644091990747
+CL,CHL,Chile,Latin America & Caribbean,High income,2025,30863.422315516877
+CN,CHN,China,East Asia & Pacific,Upper middle income,2018,17807.04905522442
+CN,CHN,China,East Asia & Pacific,Upper middle income,2019,18820.587164564455
+CN,CHN,China,East Asia & Pacific,Upper middle income,2020,19215.101249101157
+CN,CHN,China,East Asia & Pacific,Upper middle income,2021,20843.297834737652
+CN,CHN,China,East Asia & Pacific,Upper middle income,2022,21499.312555975706
+CN,CHN,China,East Asia & Pacific,Upper middle income,2023,22687.251953432795
+CN,CHN,China,East Asia & Pacific,Upper middle income,2024,23841.476914181672
+CN,CHN,China,East Asia & Pacific,Upper middle income,2025,25066.5215296486
+CO,COL,Colombia,Latin America & Caribbean,Upper middle income,2018,17104.131354567824
+CO,COL,Colombia,Latin America & Caribbean,Upper middle income,2019,17336.77160305506
+CO,COL,Colombia,Latin America & Caribbean,Upper middle income,2020,15861.499929129526
+CO,COL,Colombia,Latin America & Caribbean,Upper middle income,2021,17383.090172829532
+CO,COL,Colombia,Latin America & Caribbean,Upper middle income,2022,18458.720946070363
+CO,COL,Colombia,Latin America & Caribbean,Upper middle income,2023,18406.624233849125
+CO,COL,Colombia,Latin America & Caribbean,Upper middle income,2024,18481.837492936753
+CO,COL,Colombia,Latin America & Caribbean,Upper middle income,2025,18778.648263190116
+KM,COM,Comoros,Sub-Saharan Africa,Lower middle income,2018,3528.9586816787705
+KM,COM,Comoros,Sub-Saharan Africa,Lower middle income,2019,3522.6686695264643
+KM,COM,Comoros,Sub-Saharan Africa,Lower middle income,2020,3447.4727490477203
+KM,COM,Comoros,Sub-Saharan Africa,Lower middle income,2021,3449.0435745318014
+KM,COM,Comoros,Sub-Saharan Africa,Lower middle income,2022,3465.8402271704995
+KM,COM,Comoros,Sub-Saharan Africa,Lower middle income,2023,3508.1586233154544
+KM,COM,Comoros,Sub-Saharan Africa,Lower middle income,2024,3556.0384263801025
+KM,COM,Comoros,Sub-Saharan Africa,Lower middle income,2025,3621.7662630434265
+CD,COD,"Congo, Democratic Republic of",Sub-Saharan Africa,Low income,2018,1431.7285269692966
+CD,COD,"Congo, Democratic Republic of",Sub-Saharan Africa,Low income,2019,1394.7646147289322
+CD,COD,"Congo, Democratic Republic of",Sub-Saharan Africa,Low income,2020,1361.027910990083
+CD,COD,"Congo, Democratic Republic of",Sub-Saharan Africa,Low income,2021,1402.3856029522096
+CD,COD,"Congo, Democratic Republic of",Sub-Saharan Africa,Low income,2022,1484.338418814492
+CD,COD,"Congo, Democratic Republic of",Sub-Saharan Africa,Low income,2023,1559.3380647585918
+CD,COD,"Congo, Democratic Republic of",Sub-Saharan Africa,Low income,2024,1601.7092664042243
+CD,COD,"Congo, Democratic Republic of",Sub-Saharan Africa,Low income,2025,1640.5662182427818
+CG,COG,"Congo, Republic of",Sub-Saharan Africa,Lower middle income,2018,7029.33651566257
+CG,COG,"Congo, Republic of",Sub-Saharan Africa,Lower middle income,2019,6939.369133974658
+CG,COG,"Congo, Republic of",Sub-Saharan Africa,Lower middle income,2020,6350.509134097218
+CG,COG,"Congo, Republic of",Sub-Saharan Africa,Lower middle income,2021,6263.211612926363
+CG,COG,"Congo, Republic of",Sub-Saharan Africa,Lower middle income,2022,6205.105041403403
+CG,COG,"Congo, Republic of",Sub-Saharan Africa,Lower middle income,2023,6172.287766506827
+CG,COG,"Congo, Republic of",Sub-Saharan Africa,Lower middle income,2024,6152.565091184416
+CG,COG,"Congo, Republic of",Sub-Saharan Africa,Lower middle income,2025,6194.0898128775625
+CR,CRI,Costa Rica,Latin America & Caribbean,High income,2018,23069.862224126584
+CR,CRI,Costa Rica,Latin America & Caribbean,High income,2019,23496.82946229951
+CR,CRI,Costa Rica,Latin America & Caribbean,High income,2020,22368.13780726379
+CR,CRI,Costa Rica,Latin America & Caribbean,High income,2021,24083.59881824373
+CR,CRI,Costa Rica,Latin America & Caribbean,High income,2022,25290.008746697484
+CR,CRI,Costa Rica,Latin America & Caribbean,High income,2023,26378.540994192583
+CR,CRI,Costa Rica,Latin America & Caribbean,High income,2024,27325.047047650336
+CR,CRI,Costa Rica,Latin America & Caribbean,High income,2025,28443.412767638772
+CI,CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,2018,5670.241997413529
+CI,CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,2019,5894.922352591034
+CI,CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,2020,5787.858146965612
+CI,CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,2021,6045.204804908809
+CI,CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,2022,6272.263957600288
+CI,CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,2023,6520.8988645976515
+CI,CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,2024,6747.037967770597
+CI,CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,2025,7014.845776930616
+HR,HRV,Croatia,Europe & Central Asia,High income,2018,33729.54558119428
+HR,HRV,Croatia,Europe & Central Asia,High income,2019,35122.79662310085
+HR,HRV,Croatia,Europe & Central Asia,High income,2020,32493.40170100552
+HR,HRV,Croatia,Europe & Central Asia,High income,2021,36930.076102199
+HR,HRV,Croatia,Europe & Central Asia,High income,2022,39863.91093776488
+HR,HRV,Croatia,Europe & Central Asia,High income,2023,41320.25799577197
+HR,HRV,Croatia,Europe & Central Asia,High income,2024,42828.79972735691
+HR,HRV,Croatia,Europe & Central Asia,High income,2025,44172.04422849063
+CW,CUW,Curaçao,Latin America & Caribbean,High income,2018,29256.815786528594
+CW,CUW,Curaçao,Latin America & Caribbean,High income,2019,28659.65590140651
+CW,CUW,Curaçao,Latin America & Caribbean,High income,2020,23669.771151912824
+CW,CUW,Curaçao,Latin America & Caribbean,High income,2021,24905.768426697756
+CW,CUW,Curaçao,Latin America & Caribbean,High income,2022,26734.64589989214
+CW,CUW,Curaçao,Latin America & Caribbean,High income,2023,27617.920428363846
+CW,CUW,Curaçao,Latin America & Caribbean,High income,2024,28762.05815663891
+CY,CYP,Cyprus,Europe & Central Asia,High income,2018,43510.03125
+CY,CYP,Cyprus,Europe & Central Asia,High income,2019,45454.17578125
+CY,CYP,Cyprus,Europe & Central Asia,High income,2020,43402.359375
+CY,CYP,Cyprus,Europe & Central Asia,High income,2021,47632.5703125
+CY,CYP,Cyprus,Europe & Central Asia,High income,2022,50840.9140625
+CY,CYP,Cyprus,Europe & Central Asia,High income,2023,51674.90234375
+CY,CYP,Cyprus,Europe & Central Asia,High income,2024,52861.8359375
+CY,CYP,Cyprus,Europe & Central Asia,High income,2025,54103.26171875
+CZ,CZE,Czechia,Europe & Central Asia,High income,2018,46301.082036028994
+CZ,CZE,Czechia,Europe & Central Asia,High income,2019,47763.61655202543
+CZ,CZE,Czechia,Europe & Central Asia,High income,2020,45119.93873091392
+CZ,CZE,Czechia,Europe & Central Asia,High income,2021,47796.0337408466
+CZ,CZE,Czechia,Europe & Central Asia,High income,2022,48390.66167867495
+CZ,CZE,Czechia,Europe & Central Asia,High income,2023,47558.410676331405
+CZ,CZE,Czechia,Europe & Central Asia,High income,2024,47972.53171792004
+CZ,CZE,Czechia,Europe & Central Asia,High income,2025,49292.48787132084
+DK,DNK,Denmark,Europe & Central Asia,High income,2018,65870.83025543412
+DK,DNK,Denmark,Europe & Central Asia,High income,2019,66758.63233461307
+DK,DNK,Denmark,Europe & Central Asia,High income,2020,65379.306612099535
+DK,DNK,Denmark,Europe & Central Asia,High income,2021,69327.99821652696
+DK,DNK,Denmark,Europe & Central Asia,High income,2022,69089.46924922892
+DK,DNK,Denmark,Europe & Central Asia,High income,2023,68993.90311003616
+DK,DNK,Denmark,Europe & Central Asia,High income,2024,71034.57896671385
+DK,DNK,Denmark,Europe & Central Asia,High income,2025,72723.27478679921
+DJ,DJI,Djibouti,Middle East & North Africa,Lower middle income,2018,5590.504266048528
+DJ,DJI,Djibouti,Middle East & North Africa,Lower middle income,2019,5809.304550413412
+DJ,DJI,Djibouti,Middle East & North Africa,Lower middle income,2020,5791.477676798773
+DJ,DJI,Djibouti,Middle East & North Africa,Lower middle income,2021,5960.108073968246
+DJ,DJI,Djibouti,Middle East & North Africa,Lower middle income,2022,6180.679985946064
+DJ,DJI,Djibouti,Middle East & North Africa,Lower middle income,2023,6510.67859061619
+DJ,DJI,Djibouti,Middle East & North Africa,Lower middle income,2024,6871.124404531289
+DJ,DJI,Djibouti,Middle East & North Africa,Lower middle income,2025,7222.549891875304
+DM,DMA,Dominica,Latin America & Caribbean,Upper middle income,2018,16877.124488064168
+DM,DMA,Dominica,Latin America & Caribbean,Upper middle income,2019,17619.43354167695
+DM,DMA,Dominica,Latin America & Caribbean,Upper middle income,2020,14919.530768671857
+DM,DMA,Dominica,Latin America & Caribbean,Upper middle income,2021,15808.974350394501
+DM,DMA,Dominica,Latin America & Caribbean,Upper middle income,2022,17550.800994646645
+DM,DMA,Dominica,Latin America & Caribbean,Upper middle income,2023,18278.225340198944
+DM,DMA,Dominica,Latin America & Caribbean,Upper middle income,2024,18739.364040498604
+DM,DMA,Dominica,Latin America & Caribbean,Upper middle income,2025,19409.290070019415
+DO,DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,2018,20662.848586152973
+DO,DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,2019,21451.28644199497
+DO,DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,2020,19545.409955294315
+DO,DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,2021,22053.458986995527
+DO,DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,2022,22986.95808104995
+DO,DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,2023,23282.489507105423
+DO,DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,2024,24229.889487291515
+DO,DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,2025,24543.342184341465
+EC,ECU,Ecuador,Latin America & Caribbean,Upper middle income,2018,14083.506998230425
+EC,ECU,Ecuador,Latin America & Caribbean,Upper middle income,2019,13870.489511806805
+EC,ECU,Ecuador,Latin America & Caribbean,Upper middle income,2020,12440.326374781402
+EC,ECU,Ecuador,Latin America & Caribbean,Upper middle income,2021,13507.444563837455
+EC,ECU,Ecuador,Latin America & Caribbean,Upper middle income,2022,14186.638854462459
+EC,ECU,Ecuador,Latin America & Caribbean,Upper middle income,2023,14321.164829561092
+EC,ECU,Ecuador,Latin America & Caribbean,Upper middle income,2024,13922.422278074395
+EC,ECU,Ecuador,Latin America & Caribbean,Upper middle income,2025,14319.240655829948
+EG,EGY,"Egypt, Arab Republic of",Middle East & North Africa,Lower middle income,2018,14488.209434026054
+EG,EGY,"Egypt, Arab Republic of",Middle East & North Africa,Lower middle income,2019,15026.568243683027
+EG,EGY,"Egypt, Arab Republic of",Middle East & North Africa,Lower middle income,2020,15309.235988183531
+EG,EGY,"Egypt, Arab Republic of",Middle East & North Africa,Lower middle income,2021,15579.01608615512
+EG,EGY,"Egypt, Arab Republic of",Middle East & North Africa,Lower middle income,2022,16360.390775011048
+EG,EGY,"Egypt, Arab Republic of",Middle East & North Africa,Lower middle income,2023,16691.38739919619
+EG,EGY,"Egypt, Arab Republic of",Middle East & North Africa,Lower middle income,2024,16798.151577837994
+EG,EGY,"Egypt, Arab Republic of",Middle East & North Africa,Lower middle income,2025,17265.148860461682
+SV,SLV,El Salvador,Latin America & Caribbean,Upper middle income,2018,10297.203612692012
+SV,SLV,El Salvador,Latin America & Caribbean,Upper middle income,2019,10543.938329131672
+SV,SLV,El Salvador,Latin America & Caribbean,Upper middle income,2020,9692.449316057988
+SV,SLV,El Salvador,Latin America & Caribbean,Upper middle income,2021,10809.713399517961
+SV,SLV,El Salvador,Latin America & Caribbean,Upper middle income,2022,11085.616616955323
+SV,SLV,El Salvador,Latin America & Caribbean,Upper middle income,2023,11404.334226268531
+SV,SLV,El Salvador,Latin America & Caribbean,Upper middle income,2024,11647.023448012687
+SV,SLV,El Salvador,Latin America & Caribbean,Upper middle income,2025,12050.02826570204
+GQ,GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2018,20165.47955506073
+GQ,GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2019,18446.591657968052
+GQ,GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2020,17089.153726379038
+GQ,GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2021,16821.44864704129
+GQ,GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2022,16932.77068271548
+GQ,GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2023,15302.151783514679
+GQ,GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2024,14997.756439297591
+GQ,GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2025,13786.393293408883
+EE,EST,Estonia,Europe & Central Asia,High income,2018,40849.84734755637
+EE,EST,Estonia,Europe & Central Asia,High income,2019,42215.03438358106
+EE,EST,Estonia,Europe & Central Asia,High income,2020,40916.71941133273
+EE,EST,Estonia,Europe & Central Asia,High income,2021,44247.419897187276
+EE,EST,Estonia,Europe & Central Asia,High income,2022,43124.61965637754
+EE,EST,Estonia,Europe & Central Asia,High income,2023,41284.77468755315
+EE,EST,Estonia,Europe & Central Asia,High income,2024,41185.834835610876
+EE,EST,Estonia,Europe & Central Asia,High income,2025,41604.32266128056
+SZ,SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,2018,9578.10061089805
+SZ,SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,2019,10099.586311840596
+SZ,SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,2020,9695.824980587553
+SZ,SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,2021,9990.434919512047
+SZ,SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,2022,9927.605670081393
+SZ,SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,2023,10181.50407303966
+SZ,SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,2024,10386.214571757178
+SZ,SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,2025,10706.777804946763
+ET,ETH,Ethiopia,Sub-Saharan Africa,Low income,2018,2311.1651165635853
+ET,ETH,Ethiopia,Sub-Saharan Africa,Low income,2019,2437.9704604796666
+ET,ETH,Ethiopia,Sub-Saharan Africa,Low income,2020,2516.549076388985
+ET,ETH,Ethiopia,Sub-Saharan Africa,Low income,2021,2588.4131021377825
+ET,ETH,Ethiopia,Sub-Saharan Africa,Low income,2022,2655.5927674363893
+ET,ETH,Ethiopia,Sub-Saharan Africa,Low income,2023,2757.9592362609947
+ET,ETH,Ethiopia,Sub-Saharan Africa,Low income,2024,2892.222201627954
+ET,ETH,Ethiopia,Sub-Saharan Africa,Low income,2025,3094.8681186835156
+FO,FRO,Faroe Islands,Europe & Central Asia,High income,2018,66192.04943796714
+FO,FRO,Faroe Islands,Europe & Central Asia,High income,2019,68136.66179571125
+FO,FRO,Faroe Islands,Europe & Central Asia,High income,2020,66037.93615069446
+FO,FRO,Faroe Islands,Europe & Central Asia,High income,2021,68433.21442981817
+FO,FRO,Faroe Islands,Europe & Central Asia,High income,2022,70268.44971974916
+FO,FRO,Faroe Islands,Europe & Central Asia,High income,2023,71828.43427818405
+FO,FRO,Faroe Islands,Europe & Central Asia,High income,2024,72113.65138852685
+FJ,FJI,Fiji,East Asia & Pacific,Upper middle income,2018,13100.095939444009
+FJ,FJI,Fiji,East Asia & Pacific,Upper middle income,2019,13056.331093708863
+FJ,FJI,Fiji,East Asia & Pacific,Upper middle income,2020,10812.035501417831
+FJ,FJI,Fiji,East Asia & Pacific,Upper middle income,2021,10322.427963885415
+FJ,FJI,Fiji,East Asia & Pacific,Upper middle income,2022,12118.31827100818
+FJ,FJI,Fiji,East Asia & Pacific,Upper middle income,2023,13194.804757040378
+FJ,FJI,Fiji,East Asia & Pacific,Upper middle income,2024,13592.463593743454
+FJ,FJI,Fiji,East Asia & Pacific,Upper middle income,2025,13961.1183693541
+FI,FIN,Finland,Europe & Central Asia,High income,2018,56226.33724134295
+FI,FIN,Finland,Europe & Central Asia,High income,2019,56922.48731631031
+FI,FIN,Finland,Europe & Central Asia,High income,2020,55424.8574989208
+FI,FIN,Finland,Europe & Central Asia,High income,2021,56790.376617769165
+FI,FIN,Finland,Europe & Central Asia,High income,2022,57068.305647807356
+FI,FIN,Finland,Europe & Central Asia,High income,2023,56051.770112950064
+FI,FIN,Finland,Europe & Central Asia,High income,2024,55901.32022965883
+FI,FIN,Finland,Europe & Central Asia,High income,2025,55735.21749213258
+FR,FRA,France,Europe & Central Asia,High income,2018,52560.95362438406
+FR,FRA,France,Europe & Central Asia,High income,2019,53448.55488499433
+FR,FRA,France,Europe & Central Asia,High income,2020,49311.33340963903
+FR,FRA,France,Europe & Central Asia,High income,2021,52517.335490585516
+FR,FRA,France,Europe & Central Asia,High income,2022,53673.81374064215
+FR,FRA,France,Europe & Central Asia,High income,2023,54296.723089773055
+FR,FRA,France,Europe & Central Asia,High income,2024,54799.348268938855
+FR,FRA,France,Europe & Central Asia,High income,2025,55124.539256439464
+GA,GAB,Gabon,Sub-Saharan Africa,Upper middle income,2018,19225.59825746784
+GA,GAB,Gabon,Sub-Saharan Africa,Upper middle income,2019,19491.40676313957
+GA,GAB,Gabon,Sub-Saharan Africa,Upper middle income,2020,18681.484073854645
+GA,GAB,Gabon,Sub-Saharan Africa,Upper middle income,2021,18523.579803213495
+GA,GAB,Gabon,Sub-Saharan Africa,Upper middle income,2022,18662.049797047206
+GA,GAB,Gabon,Sub-Saharan Africa,Upper middle income,2023,18701.422776632266
+GA,GAB,Gabon,Sub-Saharan Africa,Upper middle income,2024,18923.661660977807
+GA,GAB,Gabon,Sub-Saharan Africa,Upper middle income,2025,18986.473876729342
+GM,GMB,"Gambia, The",Sub-Saharan Africa,Low income,2018,2651.4328145582635
+GM,GMB,"Gambia, The",Sub-Saharan Africa,Low income,2019,2750.8213217963403
+GM,GMB,"Gambia, The",Sub-Saharan Africa,Low income,2020,2702.319194744816
+GM,GMB,"Gambia, The",Sub-Saharan Africa,Low income,2021,2777.79620978324
+GM,GMB,"Gambia, The",Sub-Saharan Africa,Low income,2022,2863.1804982985946
+GM,GMB,"Gambia, The",Sub-Saharan Africa,Low income,2023,2963.5987346743614
+GM,GMB,"Gambia, The",Sub-Saharan Africa,Low income,2024,3057.684177863302
+GM,GMB,"Gambia, The",Sub-Saharan Africa,Low income,2025,3166.621296444424
+GE,GEO,Georgia,Europe & Central Asia,Upper middle income,2018,17228.679084750325
+GE,GEO,Georgia,Europe & Central Asia,Upper middle income,2019,18186.8816465807
+GE,GEO,Georgia,Europe & Central Asia,Upper middle income,2020,17031.144028342584
+GE,GEO,Georgia,Europe & Central Asia,Upper middle income,2021,18915.653400526273
+GE,GEO,Georgia,Europe & Central Asia,Upper middle income,2022,20966.528039113447
+GE,GEO,Georgia,Europe & Central Asia,Upper middle income,2023,22590.529364914593
+GE,GEO,Georgia,Europe & Central Asia,Upper middle income,2024,24146.623410864486
+GE,GEO,Georgia,Europe & Central Asia,Upper middle income,2025,25135.782245741197
+DE,DEU,Germany,Europe & Central Asia,High income,2018,62481.11839710451
+DE,DEU,Germany,Europe & Central Asia,High income,2019,62949.89325118552
+DE,DEU,Germany,Europe & Central Asia,High income,2020,60299.576771080945
+DE,DEU,Germany,Europe & Central Asia,High income,2021,62630.7748127737
+DE,DEU,Germany,Europe & Central Asia,High income,2022,63777.929102929935
+DE,DEU,Germany,Europe & Central Asia,High income,2023,63140.19490996694
+DE,DEU,Germany,Europe & Central Asia,High income,2024,62654.60226402299
+DE,DEU,Germany,Europe & Central Asia,High income,2025,62823.77366488221
+GH,GHA,Ghana,Sub-Saharan Africa,Lower middle income,2018,6234.51208201488
+GH,GHA,Ghana,Sub-Saharan Africa,Lower middle income,2019,6508.246523059009
+GH,GHA,Ghana,Sub-Saharan Africa,Lower middle income,2020,6412.685417624688
+GH,GHA,Ghana,Sub-Saharan Africa,Lower middle income,2021,6607.502973783208
+GH,GHA,Ghana,Sub-Saharan Africa,Lower middle income,2022,6728.45413832472
+GH,GHA,Ghana,Sub-Saharan Africa,Lower middle income,2023,6808.537750039638
+GH,GHA,Ghana,Sub-Saharan Africa,Lower middle income,2024,7072.798795944447
+GH,GHA,Ghana,Sub-Saharan Africa,Lower middle income,2025,7357.833329930141
+GR,GRC,Greece,Europe & Central Asia,High income,2018,32722.331044402927
+GR,GRC,Greece,Europe & Central Asia,High income,2019,33502.75064889967
+GR,GRC,Greece,Europe & Central Asia,High income,2020,30487.112933104487
+GR,GRC,Greece,Europe & Central Asia,High income,2021,33528.227120251475
+GR,GRC,Greece,Europe & Central Asia,High income,2022,35828.175664177565
+GR,GRC,Greece,Europe & Central Asia,High income,2023,36700.51346310555
+GR,GRC,Greece,Europe & Central Asia,High income,2024,37474.2798239947
+GR,GRC,Greece,Europe & Central Asia,High income,2025,38218.721628616
+GL,GRL,Greenland,Europe & Central Asia,High income,2018,66887.6779268926
+GL,GRL,Greenland,Europe & Central Asia,High income,2019,68534.94190391335
+GL,GRL,Greenland,Europe & Central Asia,High income,2020,68533.73399029639
+GL,GRL,Greenland,Europe & Central Asia,High income,2021,69302.0088788237
+GL,GRL,Greenland,Europe & Central Asia,High income,2022,70681.22539021583
+GL,GRL,Greenland,Europe & Central Asia,High income,2023,71037.53722396232
+GD,GRD,Grenada,Latin America & Caribbean,Upper middle income,2018,16964.852001696047
+GD,GRD,Grenada,Latin America & Caribbean,Upper middle income,2019,17036.91516897151
+GD,GRD,Grenada,Latin America & Caribbean,Upper middle income,2020,14647.74513848763
+GD,GRD,Grenada,Latin America & Caribbean,Upper middle income,2021,15290.250903138003
+GD,GRD,Grenada,Latin America & Caribbean,Upper middle income,2022,16376.427309959447
+GD,GRD,Grenada,Latin America & Caribbean,Upper middle income,2023,17093.156286744736
+GD,GRD,Grenada,Latin America & Caribbean,Upper middle income,2024,17484.51539195564
+GD,GRD,Grenada,Latin America & Caribbean,Upper middle income,2025,18240.99342379263
+GT,GTM,Guatemala,Latin America & Caribbean,Upper middle income,2018,11192.371919272495
+GT,GTM,Guatemala,Latin America & Caribbean,Upper middle income,2019,11466.376493219734
+GT,GTM,Guatemala,Latin America & Caribbean,Upper middle income,2020,11097.150390298593
+GT,GTM,Guatemala,Latin America & Caribbean,Upper middle income,2021,11825.141273764038
+GT,GTM,Guatemala,Latin America & Caribbean,Upper middle income,2022,12144.480046159735
+GT,GTM,Guatemala,Latin America & Caribbean,Upper middle income,2023,12380.371512199612
+GT,GTM,Guatemala,Latin America & Caribbean,Upper middle income,2024,12643.98412350041
+GT,GTM,Guatemala,Latin America & Caribbean,Upper middle income,2025,12986.524114463158
+GN,GIN,Guinea,Sub-Saharan Africa,Lower middle income,2018,3455.645126386619
+GN,GIN,Guinea,Sub-Saharan Africa,Lower middle income,2019,3557.462338831454
+GN,GIN,Guinea,Sub-Saharan Africa,Lower middle income,2020,3630.9933057767694
+GN,GIN,Guinea,Sub-Saharan Africa,Lower middle income,2021,3738.8051255133023
+GN,GIN,Guinea,Sub-Saharan Africa,Lower middle income,2022,3792.0106883627727
+GN,GIN,Guinea,Sub-Saharan Africa,Lower middle income,2023,3904.82395527998
+GN,GIN,Guinea,Sub-Saharan Africa,Lower middle income,2024,4016.341913859785
+GN,GIN,Guinea,Sub-Saharan Africa,Lower middle income,2025,4216.859708045437
+GW,GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,2018,2373.6493565345545
+GW,GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,2019,2442.2586837747613
+GW,GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,2020,2456.0113905332446
+GW,GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,2021,2522.1286924084097
+GW,GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,2022,2600.802474482998
+GW,GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,2023,2660.8144465565633
+GW,GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,2024,2717.5420697249892
+GW,GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,2025,2814.0835594032746
+GY,GUY,Guyana,Latin America & Caribbean,High income,2018,12980.35760031769
+GY,GUY,Guyana,Latin America & Caribbean,High income,2019,13402.42194727565
+GY,GUY,Guyana,Latin America & Caribbean,High income,2020,19234.130197763687
+GY,GUY,Guyana,Latin America & Caribbean,High income,2021,22865.927096888197
+GY,GUY,Guyana,Latin America & Caribbean,High income,2022,37068.199382758845
+GY,GUY,Guyana,Latin America & Caribbean,High income,2023,49312.36032254444
+GY,GUY,Guyana,Latin America & Caribbean,High income,2024,70516.70279448364
+GY,GUY,Guyana,Latin America & Caribbean,High income,2025,83658.67734759969
+HT,HTI,Haiti,Latin America & Caribbean,Lower middle income,2018,3465.2548057360113
+HT,HTI,Haiti,Latin America & Caribbean,Lower middle income,2019,3361.753288941139
+HT,HTI,Haiti,Latin America & Caribbean,Lower middle income,2020,3210.53609854862
+HT,HTI,Haiti,Latin America & Caribbean,Lower middle income,2021,3116.565053976037
+HT,HTI,Haiti,Latin America & Caribbean,Lower middle income,2022,3029.778663817016
+HT,HTI,Haiti,Latin America & Caribbean,Lower middle income,2023,2939.123794819903
+HT,HTI,Haiti,Latin America & Caribbean,Lower middle income,2024,2783.7914088278826
+HT,HTI,Haiti,Latin America & Caribbean,Lower middle income,2025,2677.8938532554926
+HN,HND,Honduras,Latin America & Caribbean,Lower middle income,2018,6219.279737750595
+HN,HND,Honduras,Latin America & Caribbean,Lower middle income,2019,6264.0188427671455
+HN,HND,Honduras,Latin America & Caribbean,Lower middle income,2020,5603.263983777774
+HN,HND,Honduras,Latin America & Caribbean,Lower middle income,2021,6202.980788120369
+HN,HND,Honduras,Latin America & Caribbean,Lower middle income,2022,6352.587101777318
+HN,HND,Honduras,Latin America & Caribbean,Lower middle income,2023,6467.880035278305
+HN,HND,Honduras,Latin America & Caribbean,Lower middle income,2024,6590.843843015528
+HN,HND,Honduras,Latin America & Caribbean,Lower middle income,2025,6726.166850666582
+HK,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,2018,66993.9592604441
+HK,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,2019,65388.3366418212
+HK,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,2020,61328.53670141928
+HK,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,2021,65884.93762606029
+HK,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,2022,64035.648494962945
+HK,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,2023,64387.66540660579
+HK,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,2024,66186.04486354558
+HK,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,2025,68724.55658657564
+HU,HUN,Hungary,Europe & Central Asia,High income,2018,35798.04127540219
+HU,HUN,Hungary,Europe & Central Asia,High income,2019,37662.67681013997
+HU,HUN,Hungary,Europe & Central Asia,High income,2020,36119.52117356523
+HU,HUN,Hungary,Europe & Central Asia,High income,2021,38887.190952715355
+HU,HUN,Hungary,Europe & Central Asia,High income,2022,40610.971136823806
+HU,HUN,Hungary,Europe & Central Asia,High income,2023,40333.25468881178
+HU,HUN,Hungary,Europe & Central Asia,High income,2024,40747.19866796682
+HU,HUN,Hungary,Europe & Central Asia,High income,2025,41160.64191409832
+IS,ISL,Iceland,Europe & Central Asia,High income,2018,66703.02193980032
+IS,ISL,Iceland,Europe & Central Asia,High income,2019,65994.9860038103
+IS,ISL,Iceland,Europe & Central Asia,High income,2020,60617.14326885096
+IS,ISL,Iceland,Europe & Central Asia,High income,2021,62720.79168327966
+IS,ISL,Iceland,Europe & Central Asia,High income,2022,66581.24418010024
+IS,ISL,Iceland,Europe & Central Asia,High income,2023,69268.12214042238
+IS,ISL,Iceland,Europe & Central Asia,High income,2024,68230.35665281703
+IS,ISL,Iceland,Europe & Central Asia,High income,2025,68064.6854551866
+IN,IND,India,South Asia,Lower middle income,2018,7492.6257675514535
+IN,IND,India,South Asia,Lower middle income,2019,7702.176348119574
+IN,IND,India,South Asia,Lower middle income,2020,7186.864470996788
+IN,IND,India,South Asia,Lower middle income,2021,7818.657017575041
+IN,IND,India,South Asia,Lower middle income,2022,8347.384786470864
+IN,IND,India,South Asia,Lower middle income,2023,8870.550276093447
+IN,IND,India,South Asia,Lower middle income,2024,9416.051370447349
+IN,IND,India,South Asia,Lower middle income,2025,10039.070891058707
+ID,IDN,Indonesia,East Asia & Pacific,Upper middle income,2018,12262.231030077104
+ID,IDN,Indonesia,East Asia & Pacific,Upper middle income,2019,12757.78508548416
+ID,IDN,Indonesia,East Asia & Pacific,Upper middle income,2020,12388.544926813132
+ID,IDN,Indonesia,East Asia & Pacific,Upper middle income,2021,12757.07464402037
+ID,IDN,Indonesia,East Asia & Pacific,Upper middle income,2022,13334.265394763685
+ID,IDN,Indonesia,East Asia & Pacific,Upper middle income,2023,13889.949501285811
+ID,IDN,Indonesia,East Asia & Pacific,Upper middle income,2024,14470.71798065778
+ID,IDN,Indonesia,East Asia & Pacific,Upper middle income,2025,15091.00886046516
+IR,IRN,"Iran, Islamic Republic of",Middle East & North Africa,Upper middle income,2018,15364.804905261386
+IR,IRN,"Iran, Islamic Republic of",Middle East & North Africa,Upper middle income,2019,14841.075151499766
+IR,IRN,"Iran, Islamic Republic of",Middle East & North Africa,Upper middle income,2020,15381.584543726643
+IR,IRN,"Iran, Islamic Republic of",Middle East & North Africa,Upper middle income,2021,15884.427677596332
+IR,IRN,"Iran, Islamic Republic of",Middle East & North Africa,Upper middle income,2022,16377.961064536818
+IR,IRN,"Iran, Islamic Republic of",Middle East & North Africa,Upper middle income,2023,17044.817344264055
+IR,IRN,"Iran, Islamic Republic of",Middle East & North Africa,Upper middle income,2024,17484.13201404669
+IR,IRN,"Iran, Islamic Republic of",Middle East & North Africa,Upper middle income,2025,16833.782167711706
+IQ,IRQ,Iraq,Middle East & North Africa,Upper middle income,2018,14456.235705319052
+IQ,IRQ,Iraq,Middle East & North Africa,Upper middle income,2019,14910.22503238197
+IQ,IRQ,Iraq,Middle East & North Africa,Upper middle income,2020,12827.634539229313
+IQ,IRQ,Iraq,Middle East & North Africa,Upper middle income,2021,12731.75357551284
+IQ,IRQ,Iraq,Middle East & North Africa,Upper middle income,2022,13433.397716695561
+IQ,IRQ,Iraq,Middle East & North Africa,Upper middle income,2023,13202.322807385595
+IQ,IRQ,Iraq,Middle East & North Africa,Upper middle income,2024,12725.043126036386
+IQ,IRQ,Iraq,Middle East & North Africa,Upper middle income,2025,12191.556465830197
+IE,IRL,Ireland,Europe & Central Asia,High income,2018,93115.83934983291
+IE,IRL,Ireland,Europe & Central Asia,High income,2019,96205.7961557005
+IE,IRL,Ireland,Europe & Central Asia,High income,2020,101793.4475258714
+IE,IRL,Ireland,Europe & Central Asia,High income,2021,116702.85817484997
+IE,IRL,Ireland,Europe & Central Asia,High income,2022,123007.4764865099
+IE,IRL,Ireland,Europe & Central Asia,High income,2023,117659.728593716
+IE,IRL,Ireland,Europe & Central Asia,High income,2024,118833.31207175138
+IE,IRL,Ireland,Europe & Central Asia,High income,2025,131338.44474504076
+IL,ISR,Israel,Middle East & North Africa,High income,2018,43782.652649168944
+IL,ISR,Israel,Middle East & North Africa,High income,2019,44492.12269670844
+IL,ISR,Israel,Middle East & North Africa,High income,2020,42926.54154185844
+IL,ISR,Israel,Middle East & North Africa,High income,2021,46151.10082040303
+IL,ISR,Israel,Middle East & North Africa,High income,2022,48132.36372051771
+IL,ISR,Israel,Middle East & North Africa,High income,2023,47671.247692608595
+IL,ISR,Israel,Middle East & North Africa,High income,2024,47388.7236682364
+IL,ISR,Israel,Middle East & North Africa,High income,2025,48196.63451765618
+IT,ITA,Italy,Europe & Central Asia,High income,2018,49355.87519135039
+IT,ITA,Italy,Europe & Central Asia,High income,2019,49690.62985052735
+IT,ITA,Italy,Europe & Central Asia,High income,2020,45505.06887089558
+IT,ITA,Italy,Europe & Central Asia,High income,2021,49825.39341118482
+IT,ITA,Italy,Europe & Central Asia,High income,2022,52333.32742706041
+IT,ITA,Italy,Europe & Central Asia,High income,2023,52842.62888317576
+IT,ITA,Italy,Europe & Central Asia,High income,2024,53284.8745049149
+IT,ITA,Italy,Europe & Central Asia,High income,2025,53606.07895710112
+JM,JAM,Jamaica,Latin America & Caribbean,Upper middle income,2018,10636.09297845508
+JM,JAM,Jamaica,Latin America & Caribbean,Upper middle income,2019,10816.37203911542
+JM,JAM,Jamaica,Latin America & Caribbean,Upper middle income,2020,9891.969329615484
+JM,JAM,Jamaica,Latin America & Caribbean,Upper middle income,2021,10430.690977175882
+JM,JAM,Jamaica,Latin America & Caribbean,Upper middle income,2022,11096.637708532093
+JM,JAM,Jamaica,Latin America & Caribbean,Upper middle income,2023,11398.812039464106
+JM,JAM,Jamaica,Latin America & Caribbean,Upper middle income,2024,11340.263880045086
+JM,JAM,Jamaica,Latin America & Caribbean,Upper middle income,2025,11357.915592063042
+JP,JPN,Japan,East Asia & Pacific,High income,2018,46133.02259787178
+JP,JPN,Japan,East Asia & Pacific,High income,2019,46055.349867248704
+JP,JPN,Japan,East Asia & Pacific,High income,2020,44212.55034157237
+JP,JPN,Japan,East Asia & Pacific,High income,2021,45999.46179668955
+JP,JPN,Japan,East Asia & Pacific,High income,2022,46819.360613609024
+JP,JPN,Japan,East Asia & Pacific,High income,2023,47387.217254252326
+JP,JPN,Japan,East Asia & Pacific,High income,2024,47479.84485456675
+JP,JPN,Japan,East Asia & Pacific,High income,2025,48283.37239594646
+JO,JOR,Jordan,Middle East & North Africa,Upper middle income,2018,10183.024836623525
+JO,JOR,Jordan,Middle East & North Africa,Upper middle income,2019,10168.358852353691
+JO,JOR,Jordan,Middle East & North Africa,Upper middle income,2020,9872.309451232497
+JO,JOR,Jordan,Middle East & North Africa,Upper middle income,2021,10056.561126123857
+JO,JOR,Jordan,Middle East & North Africa,Upper middle income,2022,10158.473877152373
+JO,JOR,Jordan,Middle East & North Africa,Upper middle income,2023,10308.782198633686
+JO,JOR,Jordan,Middle East & North Africa,Upper middle income,2024,10468.265334283968
+JO,JOR,Jordan,Middle East & North Africa,Upper middle income,2025,10794.240268773185
+KZ,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,2018,32330.22745465675
+KZ,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,2019,33298.21236950345
+KZ,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,2020,32011.5491499004
+KZ,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,2021,32945.85157258231
+KZ,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,2022,33506.26148932374
+KZ,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,2023,34703.23492866036
+KZ,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,2024,35973.96332870171
+KZ,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,2025,37850.57910429838
+KE,KEN,Kenya,Sub-Saharan Africa,Lower middle income,2018,5017.667846746638
+KE,KEN,Kenya,Sub-Saharan Africa,Lower middle income,2019,5171.712642792572
+KE,KEN,Kenya,Sub-Saharan Africa,Lower middle income,2020,5057.401155374287
+KE,KEN,Kenya,Sub-Saharan Africa,Lower middle income,2021,5338.852433827813
+KE,KEN,Kenya,Sub-Saharan Africa,Lower middle income,2022,5491.693782802457
+KE,KEN,Kenya,Sub-Saharan Africa,Lower middle income,2023,5691.825134744166
+KE,KEN,Kenya,Sub-Saharan Africa,Lower middle income,2024,5841.598660017056
+KE,KEN,Kenya,Sub-Saharan Africa,Lower middle income,2025,5995.401778956319
+KI,KIR,Kiribati,East Asia & Pacific,Lower middle income,2018,2875.417663411663
+KI,KIR,Kiribati,East Asia & Pacific,Lower middle income,2019,2926.5936647585463
+KI,KIR,Kiribati,East Asia & Pacific,Lower middle income,2020,2839.1727462256326
+KI,KIR,Kiribati,East Asia & Pacific,Lower middle income,2021,3024.210296656343
+KI,KIR,Kiribati,East Asia & Pacific,Lower middle income,2022,3127.1774538155555
+KI,KIR,Kiribati,East Asia & Pacific,Lower middle income,2023,3175.024757289033
+KI,KIR,Kiribati,East Asia & Pacific,Lower middle income,2024,3275.00186630433
+KI,KIR,Kiribati,East Asia & Pacific,Lower middle income,2025,3363.995213267664
+KR,KOR,Korea,East Asia & Pacific,High income,2018,48834.447115773335
+KR,KOR,Korea,East Asia & Pacific,High income,2019,49790.86798848215
+KR,KOR,Korea,East Asia & Pacific,High income,2020,49374.09261480253
+KR,KOR,Korea,East Asia & Pacific,High income,2021,51718.251865663115
+KR,KOR,Korea,East Asia & Pacific,High income,2022,53228.60356553654
+KR,KOR,Korea,East Asia & Pacific,High income,2023,54029.3434990785
+KR,KOR,Korea,East Asia & Pacific,High income,2024,55070.938619412125
+KR,KOR,Korea,East Asia & Pacific,High income,2025,55697.08480863279
+XK,XKX,Kosovo,Europe & Central Asia,Upper middle income,2018,11188.224462796632
+XK,XKX,Kosovo,Europe & Central Asia,Upper middle income,2019,11774.117851090836
+XK,XKX,Kosovo,Europe & Central Asia,Upper middle income,2020,11137.502856040395
+XK,XKX,Kosovo,Europe & Central Asia,Upper middle income,2021,12362.421018121306
+XK,XKX,Kosovo,Europe & Central Asia,Upper middle income,2022,13022.462744150202
+XK,XKX,Kosovo,Europe & Central Asia,Upper middle income,2023,14240.203032036463
+XK,XKX,Kosovo,Europe & Central Asia,Upper middle income,2024,15716.292556458633
+XK,XKX,Kosovo,Europe & Central Asia,Upper middle income,2025,16461.294363118843
+KW,KWT,Kuwait,Middle East & North Africa,High income,2018,51623.807862205234
+KW,KWT,Kuwait,Middle East & North Africa,High income,2019,51380.64553546314
+KW,KWT,Kuwait,Middle East & North Africa,High income,2020,49372.81879385524
+KW,KWT,Kuwait,Middle East & North Africa,High income,2021,50651.95753370912
+KW,KWT,Kuwait,Middle East & North Africa,High income,2022,51379.88331941186
+KW,KWT,Kuwait,Middle East & North Africa,High income,2023,47790.193323914384
+KW,KWT,Kuwait,Middle East & North Africa,High income,2024,46664.21951160563
+KW,KWT,Kuwait,Middle East & North Africa,High income,2025,48253.963885132005
+KG,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2018,5951.8287675860565
+KG,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2019,6087.60193826927
+KG,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2020,5537.79547319377
+KG,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2021,5736.4788341515405
+KG,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2022,6139.777888250061
+KG,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2023,6575.775412904989
+KG,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2024,7210.576698304988
+KG,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2025,7878.449136696598
+LA,LAO,Lao PDR,East Asia & Pacific,Lower middle income,2018,7775.08574451883
+LA,LAO,Lao PDR,East Asia & Pacific,Lower middle income,2019,8075.2750237700275
+LA,LAO,Lao PDR,East Asia & Pacific,Lower middle income,2020,7995.595025278178
+LA,LAO,Lao PDR,East Asia & Pacific,Lower middle income,2021,8080.435532499231
+LA,LAO,Lao PDR,East Asia & Pacific,Lower middle income,2022,8183.032864726526
+LA,LAO,Lao PDR,East Asia & Pacific,Lower middle income,2023,8372.155918744065
+LA,LAO,Lao PDR,East Asia & Pacific,Lower middle income,2024,8600.324546656802
+LA,LAO,Lao PDR,East Asia & Pacific,Lower middle income,2025,8872.69396186433
+LV,LVA,Latvia,Europe & Central Asia,High income,2018,34729.70627630565
+LV,LVA,Latvia,Europe & Central Asia,High income,2019,35208.193459085865
+LV,LVA,Latvia,Europe & Central Asia,High income,2020,34225.897604405814
+LV,LVA,Latvia,Europe & Central Asia,High income,2021,36912.013060216064
+LV,LVA,Latvia,Europe & Central Asia,High income,2022,37718.70979583672
+LV,LVA,Latvia,Europe & Central Asia,High income,2023,37277.721722131726
+LV,LVA,Latvia,Europe & Central Asia,High income,2024,37615.076245074364
+LV,LVA,Latvia,Europe & Central Asia,High income,2025,38800.54252818721
+LB,LBN,Lebanon,Middle East & North Africa,Lower middle income,2018,16290.051647859174
+LB,LBN,Lebanon,Middle East & North Africa,Lower middle income,2019,15659.566104001171
+LB,LBN,Lebanon,Middle East & North Africa,Lower middle income,2020,12507.436636807848
+LB,LBN,Lebanon,Middle East & North Africa,Lower middle income,2021,11599.775508376539
+LB,LBN,Lebanon,Middle East & North Africa,Lower middle income,2022,11474.750584555837
+LB,LBN,Lebanon,Middle East & North Africa,Lower middle income,2023,11330.268738742221
+LB,LBN,Lebanon,Middle East & North Africa,Lower middle income,2024,10469.221096693158
+LS,LSO,Lesotho,Sub-Saharan Africa,Lower middle income,2018,2846.4182812464937
+LS,LSO,Lesotho,Sub-Saharan Africa,Lower middle income,2019,2773.286398872358
+LS,LSO,Lesotho,Sub-Saharan Africa,Lower middle income,2020,2517.110444865932
+LS,LSO,Lesotho,Sub-Saharan Africa,Lower middle income,2021,2544.7824955121414
+LS,LSO,Lesotho,Sub-Saharan Africa,Lower middle income,2022,2577.5454412776908
+LS,LSO,Lesotho,Sub-Saharan Africa,Lower middle income,2023,2592.4570129526005
+LS,LSO,Lesotho,Sub-Saharan Africa,Lower middle income,2024,2697.627384366472
+LS,LSO,Lesotho,Sub-Saharan Africa,Lower middle income,2025,2720.957376534121
+LR,LBR,Liberia,Sub-Saharan Africa,Low income,2018,1647.974437938465
+LR,LBR,Liberia,Sub-Saharan Africa,Low income,2019,1575.766650012378
+LR,LBR,Liberia,Sub-Saharan Africa,Low income,2020,1497.3769243627232
+LR,LBR,Liberia,Sub-Saharan Africa,Low income,2021,1539.20892304674
+LR,LBR,Liberia,Sub-Saharan Africa,Low income,2022,1578.9983706917492
+LR,LBR,Liberia,Sub-Saharan Africa,Low income,2023,1616.923733566953
+LR,LBR,Liberia,Sub-Saharan Africa,Low income,2024,1646.0586136660083
+LR,LBR,Liberia,Sub-Saharan Africa,Low income,2025,1692.9259113547507
+LY,LBY,Libya,Middle East & North Africa,Upper middle income,2018,16385.16447612699
+LY,LBY,Libya,Middle East & North Africa,Upper middle income,2019,14337.196298758206
+LY,LBY,Libya,Middle East & North Africa,Upper middle income,2020,9978.664001107427
+LY,LBY,Libya,Middle East & North Africa,Upper middle income,2021,12641.509771407456
+LY,LBY,Libya,Middle East & North Africa,Upper middle income,2022,11450.059855292844
+LY,LBY,Libya,Middle East & North Africa,Upper middle income,2023,12476.597494408254
+LY,LBY,Libya,Middle East & North Africa,Upper middle income,2024,12583.83387268161
+LY,LBY,Libya,Middle East & North Africa,Upper middle income,2025,14118.206441856486
+LT,LTU,Lithuania,Europe & Central Asia,High income,2018,41035.401815273246
+LT,LTU,Lithuania,Europe & Central Asia,High income,2019,43078.711858546114
+LT,LTU,Lithuania,Europe & Central Asia,High income,2020,43108.19760602826
+LT,LTU,Lithuania,Europe & Central Asia,High income,2021,45897.37150263274
+LT,LTU,Lithuania,Europe & Central Asia,High income,2022,46642.59472510857
+LT,LTU,Lithuania,Europe & Central Asia,High income,2023,46333.900696520606
+LT,LTU,Lithuania,Europe & Central Asia,High income,2024,47462.003938697504
+LT,LTU,Lithuania,Europe & Central Asia,High income,2025,48839.543645294776
+LU,LUX,Luxembourg,Europe & Central Asia,High income,2018,131733.88447148932
+LU,LUX,Luxembourg,Europe & Central Asia,High income,2019,132724.75466830298
+LU,LUX,Luxembourg,Europe & Central Asia,High income,2020,129865.63187112365
+LU,LUX,Luxembourg,Europe & Central Asia,High income,2021,136772.44375329168
+LU,LUX,Luxembourg,Europe & Central Asia,High income,2022,132570.83227262617
+LU,LUX,Luxembourg,Europe & Central Asia,High income,2023,130048.92227314721
+LU,LUX,Luxembourg,Europe & Central Asia,High income,2024,128475.28354041478
+LU,LUX,Luxembourg,Europe & Central Asia,High income,2025,127420.60162516528
+MO,MAC,"Macao SAR, China",East Asia & Pacific,High income,2018,139541.15724876916
+MO,MAC,"Macao SAR, China",East Asia & Pacific,High income,2019,133453.89602603734
+MO,MAC,"Macao SAR, China",East Asia & Pacific,High income,2020,59662.48558645506
+MO,MAC,"Macao SAR, China",East Asia & Pacific,High income,2021,73374.44868295889
+MO,MAC,"Macao SAR, China",East Asia & Pacific,High income,2022,59921.441691873006
+MO,MAC,"Macao SAR, China",East Asia & Pacific,High income,2023,104815.20003062004
+MO,MAC,"Macao SAR, China",East Asia & Pacific,High income,2024,111693.50283143437
+MO,MAC,"Macao SAR, China",East Asia & Pacific,High income,2025,117098.27484551806
+MG,MDG,Madagascar,Sub-Saharan Africa,Low income,2018,1678.7862326949119
+MG,MDG,Madagascar,Sub-Saharan Africa,Low income,2019,1707.8315383003903
+MG,MDG,Madagascar,Sub-Saharan Africa,Low income,2020,1545.7271437920392
+MG,MDG,Madagascar,Sub-Saharan Africa,Low income,2021,1577.432460565288
+MG,MDG,Madagascar,Sub-Saharan Africa,Low income,2022,1602.428051975288
+MG,MDG,Madagascar,Sub-Saharan Africa,Low income,2023,1629.6055225488976
+MG,MDG,Madagascar,Sub-Saharan Africa,Low income,2024,1659.1503077019427
+MG,MDG,Madagascar,Sub-Saharan Africa,Low income,2025,1668.4770233085421
+MW,MWI,Malawi,Sub-Saharan Africa,Low income,2018,1638.9166576107648
+MW,MWI,Malawi,Sub-Saharan Africa,Low income,2019,1687.2894491789152
+MW,MWI,Malawi,Sub-Saharan Africa,Low income,2020,1656.4398519253257
+MW,MWI,Malawi,Sub-Saharan Africa,Low income,2021,1687.5935817965067
+MW,MWI,Malawi,Sub-Saharan Africa,Low income,2022,1659.9593382516805
+MW,MWI,Malawi,Sub-Saharan Africa,Low income,2023,1649.2987323455052
+MW,MWI,Malawi,Sub-Saharan Africa,Low income,2024,1634.24660266597
+MW,MWI,Malawi,Sub-Saharan Africa,Low income,2025,1623.0217852928226
+MY,MYS,Malaysia,East Asia & Pacific,Upper middle income,2018,30459.96553380609
+MY,MYS,Malaysia,East Asia & Pacific,Upper middle income,2019,31300.508655484915
+MY,MYS,Malaysia,East Asia & Pacific,Upper middle income,2020,29200.452632127035
+MY,MYS,Malaysia,East Asia & Pacific,Upper middle income,2021,29822.849183161834
+MY,MYS,Malaysia,East Asia & Pacific,Upper middle income,2022,32129.221782011253
+MY,MYS,Malaysia,East Asia & Pacific,Upper middle income,2023,32857.66766007743
+MY,MYS,Malaysia,East Asia & Pacific,Upper middle income,2024,34116.23178488853
+MY,MYS,Malaysia,East Asia & Pacific,Upper middle income,2025,35461.44658058718
+MV,MDV,Maldives,South Asia,Upper middle income,2018,21072.580524969424
+MV,MDV,Maldives,South Asia,Upper middle income,2019,21855.50122457897
+MV,MDV,Maldives,South Asia,Upper middle income,2020,14242.975070116228
+MV,MDV,Maldives,South Asia,Upper middle income,2021,19052.622490431062
+MV,MDV,Maldives,South Asia,Upper middle income,2022,21357.811251115312
+MV,MDV,Maldives,South Asia,Upper middle income,2023,22333.047713817457
+MV,MDV,Maldives,South Asia,Upper middle income,2024,23034.40984048391
+MV,MDV,Maldives,South Asia,Upper middle income,2025,24401.315925363524
+ML,MLI,Mali,Sub-Saharan Africa,Low income,2018,2862.407289874756
+ML,MLI,Mali,Sub-Saharan Africa,Low income,2019,2916.171677910843
+ML,MLI,Mali,Sub-Saharan Africa,Low income,2020,2796.410384443858
+ML,MLI,Mali,Sub-Saharan Africa,Low income,2021,2796.227937954306
+ML,MLI,Mali,Sub-Saharan Africa,Low income,2022,2813.8109596256463
+ML,MLI,Mali,Sub-Saharan Africa,Low income,2023,2861.4805806331437
+ML,MLI,Mali,Sub-Saharan Africa,Low income,2024,2917.9324588367126
+ML,MLI,Mali,Sub-Saharan Africa,Low income,2025,2993.251663592569
+MT,MLT,Malta,Middle East & North Africa,High income,2018,53419.0022708322
+MT,MLT,Malta,Middle East & North Africa,High income,2019,53393.423164246284
+MT,MLT,Malta,Middle East & North Africa,High income,2020,50389.6963309289
+MT,MLT,Malta,Middle East & North Africa,High income,2021,56823.9958525022
+MT,MLT,Malta,Middle East & North Africa,High income,2022,56874.43393273677
+MT,MLT,Malta,Middle East & North Africa,High income,2023,60459.76551826439
+MT,MLT,Malta,Middle East & North Africa,High income,2024,62398.48923889467
+MT,MLT,Malta,Middle East & North Africa,High income,2025,63655.51606596648
+MH,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,2018,5636.029549376721
+MH,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,2019,6405.8963238710485
+MH,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,2020,6418.006638224163
+MH,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,2021,6768.82579129624
+MH,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,2022,6937.753570505137
+MH,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,2023,6774.782655783783
+MH,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,2024,7236.867937664897
+MH,MHL,Marshall Islands,East Asia & Pacific,Upper middle income,2025,7660.376955911684
+MR,MRT,Mauritania,Sub-Saharan Africa,Lower middle income,2018,6153.637902417045
+MR,MRT,Mauritania,Sub-Saharan Africa,Lower middle income,2019,6162.21044455969
+MR,MRT,Mauritania,Sub-Saharan Africa,Lower middle income,2020,5963.235497249875
+MR,MRT,Mauritania,Sub-Saharan Africa,Lower middle income,2021,5836.565808218969
+MR,MRT,Mauritania,Sub-Saharan Africa,Lower middle income,2022,6053.261781247681
+MR,MRT,Mauritania,Sub-Saharan Africa,Lower middle income,2023,6276.475210756528
+MR,MRT,Mauritania,Sub-Saharan Africa,Lower middle income,2024,6482.690166359361
+MR,MRT,Mauritania,Sub-Saharan Africa,Lower middle income,2025,6559.043219605656
+MU,MUS,Mauritius,Sub-Saharan Africa,Upper middle income,2018,25243.886462030987
+MU,MUS,Mauritius,Sub-Saharan Africa,Upper middle income,2019,25958.490028146538
+MU,MUS,Mauritius,Sub-Saharan Africa,Upper middle income,2020,22272.539869667697
+MU,MUS,Mauritius,Sub-Saharan Africa,Upper middle income,2021,23010.20138269057
+MU,MUS,Mauritius,Sub-Saharan Africa,Upper middle income,2022,25005.06661457229
+MU,MUS,Mauritius,Sub-Saharan Africa,Upper middle income,2023,26471.035142289216
+MU,MUS,Mauritius,Sub-Saharan Africa,Upper middle income,2024,27844.89561148312
+MU,MUS,Mauritius,Sub-Saharan Africa,Upper middle income,2025,28769.51283077087
+MX,MEX,Mexico,Latin America & Caribbean,Upper middle income,2018,21997.77302194944
+MX,MEX,Mexico,Latin America & Caribbean,Upper middle income,2019,21704.185952747954
+MX,MEX,Mexico,Latin America & Caribbean,Upper middle income,2020,19728.48178274552
+MX,MEX,Mexico,Latin America & Caribbean,Upper middle income,2021,20782.58774409054
+MX,MEX,Mexico,Latin America & Caribbean,Upper middle income,2022,21391.857369884536
+MX,MEX,Mexico,Latin America & Caribbean,Upper middle income,2023,21864.92361041453
+MX,MEX,Mexico,Latin America & Caribbean,Upper middle income,2024,21970.352041292626
+MX,MEX,Mexico,Latin America & Caribbean,Upper middle income,2025,21911.92928427468
+FM,FSM,"Micronesia, Federated States of",East Asia & Pacific,Upper middle income,2018,3838.640547932624
+FM,FSM,"Micronesia, Federated States of",East Asia & Pacific,Upper middle income,2019,3965.053772693958
+FM,FSM,"Micronesia, Federated States of",East Asia & Pacific,Upper middle income,2020,3861.2931957030114
+FM,FSM,"Micronesia, Federated States of",East Asia & Pacific,Upper middle income,2021,3955.731413179713
+FM,FSM,"Micronesia, Federated States of",East Asia & Pacific,Upper middle income,2022,3815.7946569967216
+FM,FSM,"Micronesia, Federated States of",East Asia & Pacific,Upper middle income,2023,3841.2711651081554
+FM,FSM,"Micronesia, Federated States of",East Asia & Pacific,Upper middle income,2024,3911.2663194040683
+FM,FSM,"Micronesia, Federated States of",East Asia & Pacific,Upper middle income,2025,3934.642683541105
+MD,MDA,Moldova,Europe & Central Asia,Upper middle income,2018,13895.504365569192
+MD,MDA,Moldova,Europe & Central Asia,Upper middle income,2019,14621.240136228585
+MD,MDA,Moldova,Europe & Central Asia,Upper middle income,2020,13559.260021748289
+MD,MDA,Moldova,Europe & Central Asia,Upper middle income,2021,15682.070328465348
+MD,MDA,Moldova,Europe & Central Asia,Upper middle income,2022,15350.312040839119
+MD,MDA,Moldova,Europe & Central Asia,Upper middle income,2023,15980.566888985557
+MD,MDA,Moldova,Europe & Central Asia,Upper middle income,2024,16393.863325718376
+MD,MDA,Moldova,Europe & Central Asia,Upper middle income,2025,17087.187404481923
+MN,MNG,Mongolia,East Asia & Pacific,Upper middle income,2018,15230.240882884682
+MN,MNG,Mongolia,East Asia & Pacific,Upper middle income,2019,15790.696112644131
+MN,MNG,Mongolia,East Asia & Pacific,Upper middle income,2020,14801.342082918465
+MN,MNG,Mongolia,East Asia & Pacific,Upper middle income,2021,14792.250908642214
+MN,MNG,Mongolia,East Asia & Pacific,Upper middle income,2022,15310.434946916346
+MN,MNG,Mongolia,East Asia & Pacific,Upper middle income,2023,16222.86388985287
+MN,MNG,Mongolia,East Asia & Pacific,Upper middle income,2024,16842.650587379678
+MN,MNG,Mongolia,East Asia & Pacific,Upper middle income,2025,17772.534221255864
+ME,MNE,Montenegro,Europe & Central Asia,Upper middle income,2018,23562.176255895694
+ME,MNE,Montenegro,Europe & Central Asia,Upper middle income,2019,24585.115952915752
+ME,MNE,Montenegro,Europe & Central Asia,Upper middle income,2020,20904.599931451266
+ME,MNE,Montenegro,Europe & Central Asia,Upper middle income,2021,23689.97910906513
+ME,MNE,Montenegro,Europe & Central Asia,Upper middle income,2022,25583.315569061866
+ME,MNE,Montenegro,Europe & Central Asia,Upper middle income,2023,27243.404228981002
+ME,MNE,Montenegro,Europe & Central Asia,Upper middle income,2024,28105.592772662356
+ME,MNE,Montenegro,Europe & Central Asia,Upper middle income,2025,28895.317197007138
+MA,MAR,Morocco,Middle East & North Africa,Lower middle income,2018,8611.75
+MA,MAR,Morocco,Middle East & North Africa,Lower middle income,2019,8768.17578125
+MA,MAR,Morocco,Middle East & North Africa,Lower middle income,2020,8054.56298828125
+MA,MAR,Morocco,Middle East & North Africa,Lower middle income,2021,8623.265625
+MA,MAR,Morocco,Middle East & North Africa,Lower middle income,2022,8690.4482421875
+MA,MAR,Morocco,Middle East & North Africa,Lower middle income,2023,8915.3515625
+MA,MAR,Morocco,Middle East & North Africa,Lower middle income,2024,9162.7470703125
+MA,MAR,Morocco,Middle East & North Africa,Lower middle income,2025,9495.4052734375
+MZ,MOZ,Mozambique,Sub-Saharan Africa,Low income,2018,1538.8351212702223
+MZ,MOZ,Mozambique,Sub-Saharan Africa,Low income,2019,1528.8898835437337
+MZ,MOZ,Mozambique,Sub-Saharan Africa,Low income,2020,1466.1247647447606
+MZ,MOZ,Mozambique,Sub-Saharan Africa,Low income,2021,1457.2354093092151
+MZ,MOZ,Mozambique,Sub-Saharan Africa,Low income,2022,1476.7343291702634
+MZ,MOZ,Mozambique,Sub-Saharan Africa,Low income,2023,1512.667296096708
+MZ,MOZ,Mozambique,Sub-Saharan Africa,Low income,2024,1500.7075850485594
+MZ,MOZ,Mozambique,Sub-Saharan Africa,Low income,2025,1450.9595524885801
+MM,MMR,Myanmar,East Asia & Pacific,Lower middle income,2018,6201.2634142980305
+MM,MMR,Myanmar,East Asia & Pacific,Lower middle income,2019,6562.988984786251
+MM,MMR,Myanmar,East Asia & Pacific,Lower middle income,2020,5926.83450206681
+MM,MMR,Myanmar,East Asia & Pacific,Lower middle income,2021,5178.447182171636
+MM,MMR,Myanmar,East Asia & Pacific,Lower middle income,2022,5350.476668999314
+MM,MMR,Myanmar,East Asia & Pacific,Lower middle income,2023,5364.137970344292
+MM,MMR,Myanmar,East Asia & Pacific,Lower middle income,2024,5276.294339878527
+MM,MMR,Myanmar,East Asia & Pacific,Lower middle income,2025,5137.100488256152
+NA,NAM,Namibia,Sub-Saharan Africa,Lower middle income,2018,11214.386043059969
+NA,NAM,Namibia,Sub-Saharan Africa,Lower middle income,2019,10813.304468194407
+NA,NAM,Namibia,Sub-Saharan Africa,Lower middle income,2020,9652.248272194625
+NA,NAM,Namibia,Sub-Saharan Africa,Lower middle income,2021,9709.099306467706
+NA,NAM,Namibia,Sub-Saharan Africa,Lower middle income,2022,9953.097524034909
+NA,NAM,Namibia,Sub-Saharan Africa,Lower middle income,2023,10126.235955561075
+NA,NAM,Namibia,Sub-Saharan Africa,Lower middle income,2024,10276.368642638572
+NA,NAM,Namibia,Sub-Saharan Africa,Lower middle income,2025,10242.284047121855
+NR,NRU,Naoero,East Asia & Pacific,High income,2018,10402.613101919718
+NR,NRU,Naoero,East Asia & Pacific,High income,2019,11184.528492720638
+NR,NRU,Naoero,East Asia & Pacific,High income,2020,11306.020772999866
+NR,NRU,Naoero,East Asia & Pacific,High income,2021,12113.787764493978
+NR,NRU,Naoero,East Asia & Pacific,High income,2022,12019.349286879076
+NR,NRU,Naoero,East Asia & Pacific,High income,2023,11858.518469643597
+NR,NRU,Naoero,East Asia & Pacific,High income,2024,11957.878550422887
+NR,NRU,Naoero,East Asia & Pacific,High income,2025,12134.892088501278
+NP,NPL,Nepal,South Asia,Lower middle income,2018,4371.385717718967
+NP,NPL,Nepal,South Asia,Lower middle income,2019,4607.524547171124
+NP,NPL,Nepal,South Asia,Lower middle income,2020,4412.5420439395
+NP,NPL,Nepal,South Asia,Lower middle income,2021,4546.229700062892
+NP,NPL,Nepal,South Asia,Lower middle income,2022,4763.387510739456
+NP,NPL,Nepal,South Asia,Lower middle income,2023,4861.230303797002
+NP,NPL,Nepal,South Asia,Lower middle income,2024,5047.424490227022
+NP,NPL,Nepal,South Asia,Lower middle income,2025,5276.923877255382
+NL,NLD,Netherlands,Europe & Central Asia,High income,2018,66758.24542833169
+NL,NLD,Netherlands,Europe & Central Asia,High income,2019,67847.8818461095
+NL,NLD,Netherlands,Europe & Central Asia,High income,2020,64862.18903534743
+NL,NLD,Netherlands,Europe & Central Asia,High income,2021,68573.56487864471
+NL,NLD,Netherlands,Europe & Central Asia,High income,2022,71324.03602294251
+NL,NLD,Netherlands,Europe & Central Asia,High income,2023,70198.95460223609
+NL,NLD,Netherlands,Europe & Central Asia,High income,2024,70493.90512192673
+NL,NLD,Netherlands,Europe & Central Asia,High income,2025,71378.48563310123
+NZ,NZL,New Zealand,East Asia & Pacific,High income,2018,46974.681840048186
+NZ,NZL,New Zealand,East Asia & Pacific,High income,2019,47392.19331351721
+NZ,NZL,New Zealand,East Asia & Pacific,High income,2020,46326.38046729759
+NZ,NZL,New Zealand,East Asia & Pacific,High income,2021,48202.091336823345
+NZ,NZL,New Zealand,East Asia & Pacific,High income,2022,49842.98453341615
+NZ,NZL,New Zealand,East Asia & Pacific,High income,2023,49592.58755120981
+NZ,NZL,New Zealand,East Asia & Pacific,High income,2024,48325.365098568436
+NZ,NZL,New Zealand,East Asia & Pacific,High income,2025,48232.665199469586
+NI,NIC,Nicaragua,Latin America & Caribbean,Lower middle income,2018,7049.027098284028
+NI,NIC,Nicaragua,Latin America & Caribbean,Lower middle income,2019,6756.59334024487
+NI,NIC,Nicaragua,Latin America & Caribbean,Lower middle income,2020,6523.369446611954
+NI,NIC,Nicaragua,Latin America & Caribbean,Lower middle income,2021,7119.168747826008
+NI,NIC,Nicaragua,Latin America & Caribbean,Lower middle income,2022,7277.820416525839
+NI,NIC,Nicaragua,Latin America & Caribbean,Lower middle income,2023,7496.530565575048
+NI,NIC,Nicaragua,Latin America & Caribbean,Lower middle income,2024,7661.094101132016
+NI,NIC,Nicaragua,Latin America & Caribbean,Lower middle income,2025,7933.488880064118
+NE,NER,Niger,Sub-Saharan Africa,Low income,2018,1565.0197000514152
+NE,NER,Niger,Sub-Saharan Africa,Low income,2019,1605.194765690292
+NE,NER,Niger,Sub-Saharan Africa,Low income,2020,1622.278736029109
+NE,NER,Niger,Sub-Saharan Africa,Low income,2021,1587.8478490732912
+NE,NER,Niger,Sub-Saharan Africa,Low income,2022,1724.8969942521517
+NE,NER,Niger,Sub-Saharan Africa,Low income,2023,1712.970317265209
+NE,NER,Niger,Sub-Saharan Africa,Low income,2024,1795.6526688802176
+NE,NER,Niger,Sub-Saharan Africa,Low income,2025,1860.5485827260761
+NG,NGA,Nigeria,Sub-Saharan Africa,Lower middle income,2018,8362.623308602957
+NG,NGA,Nigeria,Sub-Saharan Africa,Lower middle income,2019,8361.786648360001
+NG,NGA,Nigeria,Sub-Saharan Africa,Lower middle income,2020,7664.210995751679
+NG,NGA,Nigeria,Sub-Saharan Africa,Lower middle income,2021,7588.478855870022
+NG,NGA,Nigeria,Sub-Saharan Africa,Lower middle income,2022,7752.262064952472
+NG,NGA,Nigeria,Sub-Saharan Africa,Lower middle income,2023,7843.003990076752
+NG,NGA,Nigeria,Sub-Saharan Africa,Lower middle income,2024,7994.037544708235
+NG,NGA,Nigeria,Sub-Saharan Africa,Lower middle income,2025,8145.148083874695
+MK,MKD,North Macedonia,Europe & Central Asia,Upper middle income,2018,20805.922119255498
+MK,MKD,North Macedonia,Europe & Central Asia,Upper middle income,2019,21766.88420624866
+MK,MKD,North Macedonia,Europe & Central Asia,Upper middle income,2020,20971.442103359346
+MK,MKD,North Macedonia,Europe & Central Asia,Upper middle income,2021,22144.192425273224
+MK,MKD,North Macedonia,Europe & Central Asia,Upper middle income,2022,22822.233399425928
+MK,MKD,North Macedonia,Europe & Central Asia,Upper middle income,2023,23455.22213181764
+MK,MKD,North Macedonia,Europe & Central Asia,Upper middle income,2024,24203.185580018853
+MK,MKD,North Macedonia,Europe & Central Asia,Upper middle income,2025,25094.6225007185
+NO,NOR,Norway,Europe & Central Asia,High income,2018,90064.06879743583
+NO,NOR,Norway,Europe & Central Asia,High income,2019,90772.90170418654
+NO,NOR,Norway,Europe & Central Asia,High income,2020,89012.27238045036
+NO,NOR,Norway,Europe & Central Asia,High income,2021,92205.76986360489
+NO,NOR,Norway,Europe & Central Asia,High income,2022,95109.8201605729
+NO,NOR,Norway,Europe & Central Asia,High income,2023,94364.96417543356
+NO,NOR,Norway,Europe & Central Asia,High income,2024,94803.67049316413
+NO,NOR,Norway,Europe & Central Asia,High income,2025,95173.43082243668
+OM,OMN,Oman,Middle East & North Africa,High income,2018,38673.60453608565
+OM,OMN,Oman,Middle East & North Africa,High income,2019,38292.38596827522
+OM,OMN,Oman,Middle East & North Africa,High income,2020,37560.599871495324
+OM,OMN,Oman,Middle East & North Africa,High income,2021,38719.45876820488
+OM,OMN,Oman,Middle East & North Africa,High income,2022,39780.2122774985
+OM,OMN,Oman,Middle East & North Africa,High income,2023,37793.61639575154
+OM,OMN,Oman,Middle East & North Africa,High income,2024,36721.08045483737
+OM,OMN,Oman,Middle East & North Africa,High income,2025,36142.943979719385
+PK,PAK,Pakistan,Middle East & North Africa,Lower middle income,2018,5255.06350681272
+PK,PAK,Pakistan,Middle East & North Africa,Lower middle income,2019,5295.952951382034
+PK,PAK,Pakistan,Middle East & North Africa,Lower middle income,2020,5135.014592888394
+PK,PAK,Pakistan,Middle East & North Africa,Lower middle income,2021,5367.273647147621
+PK,PAK,Pakistan,Middle East & North Africa,Lower middle income,2022,5526.279283102131
+PK,PAK,Pakistan,Middle East & North Africa,Lower middle income,2023,5418.769318929704
+PK,PAK,Pakistan,Middle East & North Africa,Lower middle income,2024,5502.073612018599
+PK,PAK,Pakistan,Middle East & North Africa,Lower middle income,2025,5617.25078028458
+PW,PLW,Palau,East Asia & Pacific,High income,2018,19608.96170278216
+PW,PLW,Palau,East Asia & Pacific,High income,2019,19685.603798927266
+PW,PLW,Palau,East Asia & Pacific,High income,2020,18509.24918559132
+PW,PLW,Palau,East Asia & Pacific,High income,2021,16312.19022001299
+PW,PLW,Palau,East Asia & Pacific,High income,2022,16258.62712929116
+PW,PLW,Palau,East Asia & Pacific,High income,2023,16487.153754269973
+PW,PLW,Palau,East Asia & Pacific,High income,2024,18499.992192128095
+PW,PLW,Palau,East Asia & Pacific,High income,2025,19698.59470322127
+PA,PAN,Panama,Latin America & Caribbean,High income,2018,32681.47298863307
+PA,PAN,Panama,Latin America & Caribbean,High income,2019,33163.7172814857
+PA,PAN,Panama,Latin America & Caribbean,High income,2020,26881.82772216894
+PA,PAN,Panama,Latin America & Caribbean,High income,2021,30932.762778051412
+PA,PAN,Panama,Latin America & Caribbean,High income,2022,33915.16933063093
+PA,PAN,Panama,Latin America & Caribbean,High income,2023,35872.97192000688
+PA,PAN,Panama,Latin America & Caribbean,High income,2024,36394.92353663164
+PA,PAN,Panama,Latin America & Caribbean,High income,2025,37516.17964285485
+PG,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,2018,4211.685043103269
+PG,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,2019,4302.162552300021
+PG,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,2020,4078.153783585655
+PG,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,2021,3977.442973607486
+PG,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,2022,4126.030321454032
+PG,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,2023,4206.378346913668
+PG,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,2024,4292.712054300128
+PG,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,2025,4456.231059621181
+PY,PRY,Paraguay,Latin America & Caribbean,Upper middle income,2018,15591.014266308453
+PY,PRY,Paraguay,Latin America & Caribbean,Upper middle income,2019,15319.388999122124
+PY,PRY,Paraguay,Latin America & Caribbean,Upper middle income,2020,14989.76671301618
+PY,PRY,Paraguay,Latin America & Caribbean,Upper middle income,2021,15400.944633242812
+PY,PRY,Paraguay,Latin America & Caribbean,Upper middle income,2022,15222.892022859845
+PY,PRY,Paraguay,Latin America & Caribbean,Upper middle income,2023,15831.584983130846
+PY,PRY,Paraguay,Latin America & Caribbean,Upper middle income,2024,16367.494016648136
+PY,PRY,Paraguay,Latin America & Caribbean,Upper middle income,2025,17245.84584231183
+PE,PER,Peru,Latin America & Caribbean,Upper middle income,2018,15384.184608242304
+PE,PER,Peru,Latin America & Caribbean,Upper middle income,2019,15461.457258546636
+PE,PER,Peru,Latin America & Caribbean,Upper middle income,2020,13607.764070582782
+PE,PER,Peru,Latin America & Caribbean,Upper middle income,2021,15285.770685239548
+PE,PER,Peru,Latin America & Caribbean,Upper middle income,2022,15566.524261256262
+PE,PER,Peru,Latin America & Caribbean,Upper middle income,2023,15342.274135964233
+PE,PER,Peru,Latin America & Caribbean,Upper middle income,2024,15708.83294409633
+PE,PER,Peru,Latin America & Caribbean,Upper middle income,2025,16079.124739484347
+PH,PHL,Philippines,East Asia & Pacific,Upper middle income,2018,9016.286596376083
+PH,PHL,Philippines,East Asia & Pacific,Upper middle income,2019,9452.293971598096
+PH,PHL,Philippines,East Asia & Pacific,Upper middle income,2020,8455.184571341064
+PH,PHL,Philippines,East Asia & Pacific,Upper middle income,2021,8857.789951155139
+PH,PHL,Philippines,East Asia & Pacific,Upper middle income,2022,9457.103954028831
+PH,PHL,Philippines,East Asia & Pacific,Upper middle income,2023,9898.532945881065
+PH,PHL,Philippines,East Asia & Pacific,Upper middle income,2024,10378.171770353518
+PH,PHL,Philippines,East Asia & Pacific,Upper middle income,2025,10747.545440860074
+PL,POL,Poland,Europe & Central Asia,High income,2018,36500.41142825841
+PL,POL,Poland,Europe & Central Asia,High income,2019,38181.62303346887
+PL,POL,Poland,Europe & Central Asia,High income,2020,37852.802131363875
+PL,POL,Poland,Europe & Central Asia,High income,2021,41059.5847829682
+PL,POL,Poland,Europe & Central Asia,High income,2022,43405.021579744105
+PL,POL,Poland,Europe & Central Asia,High income,2023,43672.76680149465
+PL,POL,Poland,Europe & Central Asia,High income,2024,45153.04397732806
+PL,POL,Poland,Europe & Central Asia,High income,2025,46924.58878974773
+PT,PRT,Portugal,Europe & Central Asia,High income,2018,39123.61512825749
+PT,PRT,Portugal,Europe & Central Asia,High income,2019,40188.28687992231
+PT,PRT,Portugal,Europe & Central Asia,High income,2020,36852.228733810305
+PT,PRT,Portugal,Europe & Central Asia,High income,2021,38657.66772234286
+PT,PRT,Portugal,Europe & Central Asia,High income,2022,41070.8611529744
+PT,PRT,Portugal,Europe & Central Asia,High income,2023,41768.25830968737
+PT,PRT,Portugal,Europe & Central Asia,High income,2024,42228.15804465021
+PT,PRT,Portugal,Europe & Central Asia,High income,2025,42576.81396735445
+PR,PRI,Puerto Rico (US),Latin America & Caribbean,High income,2018,41119.308805164816
+PR,PRI,Puerto Rico (US),Latin America & Caribbean,High income,2019,41656.32915813694
+PR,PRI,Puerto Rico (US),Latin America & Caribbean,High income,2020,40171.37444617384
+PR,PRI,Puerto Rico (US),Latin America & Caribbean,High income,2021,40559.226188956985
+PR,PRI,Puerto Rico (US),Latin America & Caribbean,High income,2022,42310.81397257185
+PR,PRI,Puerto Rico (US),Latin America & Caribbean,High income,2023,42837.87273714496
+PR,PRI,Puerto Rico (US),Latin America & Caribbean,High income,2024,44216.433336713315
+PR,PRI,Puerto Rico (US),Latin America & Caribbean,High income,2025,44603.21805588302
+QA,QAT,Qatar,Middle East & North Africa,High income,2018,114909.94548512687
+QA,QAT,Qatar,Middle East & North Africa,High income,2019,113160.97377933396
+QA,QAT,Qatar,Middle East & North Africa,High income,2020,103061.91342250239
+QA,QAT,Qatar,Middle East & North Africa,High income,2021,116832.57029409787
+QA,QAT,Qatar,Middle East & North Africa,High income,2022,114740.12361423005
+QA,QAT,Qatar,Middle East & North Africa,High income,2023,116159.14256408774
+QA,QAT,Qatar,Middle East & North Africa,High income,2024,111314.25035589114
+QA,QAT,Qatar,Middle East & North Africa,High income,2025,110135.69629769235
+RO,ROU,Romania,Europe & Central Asia,High income,2018,34828.895863788384
+RO,ROU,Romania,Europe & Central Asia,High income,2019,36399.4746080793
+RO,ROU,Romania,Europe & Central Asia,High income,2020,35283.60603582406
+RO,ROU,Romania,Europe & Central Asia,High income,2021,37534.00026435487
+RO,ROU,Romania,Europe & Central Asia,High income,2022,39256.82608549771
+RO,ROU,Romania,Europe & Central Asia,High income,2023,40116.68914169041
+RO,ROU,Romania,Europe & Central Asia,High income,2024,40503.832325378884
+RO,ROU,Romania,Europe & Central Asia,High income,2025,40845.98434401132
+RU,RUS,Russian Federation,Europe & Central Asia,High income,2018,36536.6953125
+RU,RUS,Russian Federation,Europe & Central Asia,High income,2019,37319.3203125
+RU,RUS,Russian Federation,Europe & Central Asia,High income,2020,36376.3359375
+RU,RUS,Russian Federation,Europe & Central Asia,High income,2021,38638.4296875
+RU,RUS,Russian Federation,Europe & Central Asia,High income,2022,38214.69140625
+RU,RUS,Russian Federation,Europe & Central Asia,High income,2023,39881.44921875
+RU,RUS,Russian Federation,Europe & Central Asia,High income,2024,41891.171875
+RU,RUS,Russian Federation,Europe & Central Asia,High income,2025,42357.98828125
+RW,RWA,Rwanda,Sub-Saharan Africa,Low income,2018,2577.69730366075
+RW,RWA,Rwanda,Sub-Saharan Africa,Low income,2019,2753.539598108564
+RW,RWA,Rwanda,Sub-Saharan Africa,Low income,2020,2617.7070603436364
+RW,RWA,Rwanda,Sub-Saharan Africa,Low income,2021,2776.3927638792316
+RW,RWA,Rwanda,Sub-Saharan Africa,Low income,2022,2983.1077400730433
+RW,RWA,Rwanda,Sub-Saharan Africa,Low income,2023,3168.030752815154
+RW,RWA,Rwanda,Sub-Saharan Africa,Low income,2024,3325.007696838146
+RW,RWA,Rwanda,Sub-Saharan Africa,Low income,2025,3558.6800375380835
+WS,WSM,Samoa,East Asia & Pacific,Upper middle income,2018,6805.917093927974
+WS,WSM,Samoa,East Asia & Pacific,Upper middle income,2019,7034.422330368147
+WS,WSM,Samoa,East Asia & Pacific,Upper middle income,2020,6746.156679631092
+WS,WSM,Samoa,East Asia & Pacific,Upper middle income,2021,6350.927870337113
+WS,WSM,Samoa,East Asia & Pacific,Upper middle income,2022,6450.191516778419
+WS,WSM,Samoa,East Asia & Pacific,Upper middle income,2023,7384.691636886129
+WS,WSM,Samoa,East Asia & Pacific,Upper middle income,2024,7687.234255524851
+WS,WSM,Samoa,East Asia & Pacific,Upper middle income,2025,7963.427490521526
+SM,SMR,San Marino,Europe & Central Asia,High income,2018,59194.04440794003
+SM,SMR,San Marino,Europe & Central Asia,High income,2019,60171.0506033928
+SM,SMR,San Marino,Europe & Central Asia,High income,2020,55998.07346252783
+SM,SMR,San Marino,Europe & Central Asia,High income,2021,64745.13227959011
+SM,SMR,San Marino,Europe & Central Asia,High income,2022,70887.57805659817
+SM,SMR,San Marino,Europe & Central Asia,High income,2023,70951.79196907149
+ST,STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,2018,5674.723790940113
+ST,STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,2019,5702.083470712361
+ST,STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,2020,5742.947248588261
+ST,STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,2021,5732.694560615356
+ST,STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,2022,5632.138907150473
+ST,STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,2023,5541.301676053497
+ST,STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,2024,5511.877854697516
+ST,STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,2025,5459.213117663347
+SA,SAU,Saudi Arabia,Middle East & North Africa,High income,2018,61359.46537403877
+SA,SAU,Saudi Arabia,Middle East & North Africa,High income,2019,62647.729948784225
+SA,SAU,Saudi Arabia,Middle East & North Africa,High income,2020,57420.73357364236
+SA,SAU,Saudi Arabia,Middle East & North Africa,High income,2021,62690.49666459286
+SA,SAU,Saudi Arabia,Middle East & North Africa,High income,2022,67178.59022749063
+SA,SAU,Saudi Arabia,Middle East & North Africa,High income,2023,64481.844192728786
+SA,SAU,Saudi Arabia,Middle East & North Africa,High income,2024,63194.43325288323
+SA,SAU,Saudi Arabia,Middle East & North Africa,High income,2025,63051.046725798646
+SN,SEN,Senegal,Sub-Saharan Africa,Lower middle income,2018,3998.286353038672
+SN,SEN,Senegal,Sub-Saharan Africa,Lower middle income,2019,4070.6122705955004
+SN,SEN,Senegal,Sub-Saharan Africa,Lower middle income,2020,4018.0412927904413
+SN,SEN,Senegal,Sub-Saharan Africa,Lower middle income,2021,4173.677413996166
+SN,SEN,Senegal,Sub-Saharan Africa,Lower middle income,2022,4228.733826436619
+SN,SEN,Senegal,Sub-Saharan Africa,Lower middle income,2023,4304.761487217733
+SN,SEN,Senegal,Sub-Saharan Africa,Lower middle income,2024,4477.817368362585
+SN,SEN,Senegal,Sub-Saharan Africa,Lower middle income,2025,4668.541676587259
+RS,SRB,Serbia,Europe & Central Asia,Upper middle income,2018,20454.225884367035
+RS,SRB,Serbia,Europe & Central Asia,Upper middle income,2019,21541.126403718445
+RS,SRB,Serbia,Europe & Central Asia,Upper middle income,2020,21479.078855334676
+RS,SRB,Serbia,Europe & Central Asia,Upper middle income,2021,23406.306565711737
+RS,SRB,Serbia,Europe & Central Asia,Upper middle income,2022,24651.847818352915
+RS,SRB,Serbia,Europe & Central Asia,Upper middle income,2023,25735.133477419517
+RS,SRB,Serbia,Europe & Central Asia,Upper middle income,2024,26900.741534064633
+RS,SRB,Serbia,Europe & Central Asia,Upper middle income,2025,27603.391630928716
+SC,SYC,Seychelles,Sub-Saharan Africa,High income,2018,32841.42424673813
+SC,SYC,Seychelles,Sub-Saharan Africa,High income,2019,34346.07089234829
+SC,SYC,Seychelles,Sub-Saharan Africa,High income,2020,30056.199430096807
+SC,SYC,Seychelles,Sub-Saharan Africa,High income,2021,29979.827268609057
+SC,SYC,Seychelles,Sub-Saharan Africa,High income,2022,27275.688381980275
+SC,SYC,Seychelles,Sub-Saharan Africa,High income,2023,28713.66723530876
+SC,SYC,Seychelles,Sub-Saharan Africa,High income,2024,29288.01918151901
+SC,SYC,Seychelles,Sub-Saharan Africa,High income,2025,30638.72171945226
+SL,SLE,Sierra Leone,Sub-Saharan Africa,Low income,2018,2767.3800329668766
+SL,SLE,Sierra Leone,Sub-Saharan Africa,Low income,2019,2852.662698299674
+SL,SLE,Sierra Leone,Sub-Saharan Africa,Low income,2020,2752.626153556634
+SL,SLE,Sierra Leone,Sub-Saharan Africa,Low income,2021,2849.3886583900926
+SL,SLE,Sierra Leone,Sub-Saharan Africa,Low income,2022,2934.7332634038976
+SL,SLE,Sierra Leone,Sub-Saharan Africa,Low income,2023,3034.946081925047
+SL,SLE,Sierra Leone,Sub-Saharan Africa,Low income,2024,3098.7629044667633
+SL,SLE,Sierra Leone,Sub-Saharan Africa,Low income,2025,3176.236812929961
+SG,SGP,Singapore,East Asia & Pacific,High income,2018,120668.88872615836
+SG,SGP,Singapore,East Asia & Pacific,High income,2019,120678.34197855699
+SG,SGP,Singapore,East Asia & Pacific,High income,2020,116684.21359657156
+SG,SGP,Singapore,East Asia & Pacific,High income,2021,133990.18678210382
+SG,SGP,Singapore,East Asia & Pacific,High income,2022,134828.0013926137
+SG,SGP,Singapore,East Asia & Pacific,High income,2023,130296.84378926073
+SG,SGP,Singapore,East Asia & Pacific,High income,2024,134548.76413848196
+SG,SGP,Singapore,East Asia & Pacific,High income,2025,139592.61221076077
+SX,SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,2018,42154.10202675042
+SX,SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,2019,45996.79123469216
+SX,SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,2020,39265.76167905683
+SX,SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,2021,40507.067241171724
+SX,SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,2022,45515.65284300259
+SX,SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,2023,46571.08813424001
+SX,SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,2024,47303.19464532772
+SX,SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,2025,48273.425459615806
+SK,SVK,Slovak Republic,Europe & Central Asia,High income,2018,36415.79205295075
+SK,SVK,Slovak Republic,Europe & Central Asia,High income,2019,37194.2104548698
+SK,SVK,Slovak Republic,Europe & Central Asia,High income,2020,36201.486380553295
+SK,SVK,Slovak Republic,Europe & Central Asia,High income,2021,38330.30274344696
+SK,SVK,Slovak Republic,Europe & Central Asia,High income,2022,38648.985574691884
+SK,SVK,Slovak Republic,Europe & Central Asia,High income,2023,39501.94742319616
+SK,SVK,Slovak Republic,Europe & Central Asia,High income,2024,40302.45142884245
+SK,SVK,Slovak Republic,Europe & Central Asia,High income,2025,40689.817955742656
+SI,SVN,Slovenia,Europe & Central Asia,High income,2018,43369.221946980986
+SI,SVN,Slovenia,Europe & Central Asia,High income,2019,44577.94185830695
+SI,SVN,Slovenia,Europe & Central Asia,High income,2020,42471.522803127664
+SI,SVN,Slovenia,Europe & Central Asia,High income,2021,45922.66326001342
+SI,SVN,Slovenia,Europe & Central Asia,High income,2022,47058.88659600281
+SI,SVN,Slovenia,Europe & Central Asia,High income,2023,47986.41958558214
+SI,SVN,Slovenia,Europe & Central Asia,High income,2024,48658.02651802673
+SI,SVN,Slovenia,Europe & Central Asia,High income,2025,49091.01844059016
+SB,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,2018,2686.4631702798383
+SB,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,2019,2661.9577089358763
+SB,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,2020,2515.463694133054
+SB,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,2021,2450.1839970955325
+SB,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,2022,2330.4016452340084
+SB,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,2023,2339.8746999234722
+SB,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,2024,2353.549601111864
+SB,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,2025,2382.1314520674023
+SO,SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,2018,1504.979082034806
+SO,SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,2019,1491.294939184054
+SO,SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,2020,1396.0554467497757
+SO,SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,2021,1392.3178205337053
+SO,SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,2022,1387.5475373219112
+SO,SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,2023,1401.6473522845545
+SO,SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,2024,1409.3349223328275
+SO,SOM,"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,2025,1403.813890644664
+ZA,ZAF,South Africa,Sub-Saharan Africa,Upper middle income,2018,14553.561566895734
+ZA,ZAF,South Africa,Sub-Saharan Africa,Upper middle income,2019,14352.669870987076
+ZA,ZAF,South Africa,Sub-Saharan Africa,Upper middle income,2020,13250.566659445636
+ZA,ZAF,South Africa,Sub-Saharan Africa,Upper middle income,2021,13681.954814481312
+ZA,ZAF,South Africa,Sub-Saharan Africa,Upper middle income,2022,13767.496758993606
+ZA,ZAF,South Africa,Sub-Saharan Africa,Upper middle income,2023,13695.375569407595
+ZA,ZAF,South Africa,Sub-Saharan Africa,Upper middle income,2024,13597.653849599776
+ZA,ZAF,South Africa,Sub-Saharan Africa,Upper middle income,2025,13592.048402092945
+ES,ESP,Spain,Europe & Central Asia,High income,2018,46325.20994411408
+ES,ESP,Spain,Europe & Central Asia,High income,2019,46896.41711414235
+ES,ESP,Spain,Europe & Central Asia,High income,2020,41553.44779456746
+ES,ESP,Spain,Europe & Central Asia,High income,2021,44251.66582226214
+ES,ESP,Spain,Europe & Central Asia,High income,2022,46733.48097805359
+ES,ESP,Spain,Europe & Central Asia,High income,2023,47322.59370045036
+ES,ESP,Spain,Europe & Central Asia,High income,2024,48460.29140696611
+ES,ESP,Spain,Europe & Central Asia,High income,2025,49318.105559036994
+LK,LKA,Sri Lanka,South Asia,Upper middle income,2018,14759.82489452264
+LK,LKA,Sri Lanka,South Asia,Upper middle income,2019,14637.444291267593
+LK,LKA,Sri Lanka,South Asia,Upper middle income,2020,13886.651372868899
+LK,LKA,Sri Lanka,South Asia,Upper middle income,2021,14316.135222556668
+LK,LKA,Sri Lanka,South Asia,Upper middle income,2022,13249.065050520132
+LK,LKA,Sri Lanka,South Asia,Upper middle income,2023,13065.069830572234
+LK,LKA,Sri Lanka,South Asia,Upper middle income,2024,13793.066982767717
+LK,LKA,Sri Lanka,South Asia,Upper middle income,2025,14582.760374037367
+KN,KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,2018,30576.24867492441
+KN,KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,2019,31512.19431056841
+KN,KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,2020,26736.928356377088
+KN,KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,2021,26896.617706597837
+KN,KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,2022,29749.870086482322
+KN,KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,2023,30616.577281385988
+KN,KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,2024,30656.441010936665
+KN,KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,2025,31427.663082571715
+LC,LCA,St. Lucia,Latin America & Caribbean,Upper middle income,2018,22761.16134614472
+LC,LCA,St. Lucia,Latin America & Caribbean,Upper middle income,2019,22445.208050787398
+LC,LCA,St. Lucia,Latin America & Caribbean,Upper middle income,2020,17247.9578674753
+LC,LCA,St. Lucia,Latin America & Caribbean,Upper middle income,2021,19141.327225316796
+LC,LCA,St. Lucia,Latin America & Caribbean,Upper middle income,2022,22811.25244803831
+LC,LCA,St. Lucia,Latin America & Caribbean,Upper middle income,2023,23636.02659402529
+LC,LCA,St. Lucia,Latin America & Caribbean,Upper middle income,2024,24699.969471158904
+LC,LCA,St. Lucia,Latin America & Caribbean,Upper middle income,2025,24502.962864127647
+VC,VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,2018,16139.066108496465
+VC,VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,2019,16365.325578512407
+VC,VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,2020,15763.705438253877
+VC,VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,2021,16200.899459784525
+VC,VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,2022,16835.023514540953
+VC,VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,2023,17858.244646870233
+VC,VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,2024,18714.198849352968
+VC,VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,2025,19483.01276389937
+SD,SDN,Sudan,Sub-Saharan Africa,Low income,2018,3816.65991210938
+SD,SDN,Sudan,Sub-Saharan Africa,Low income,2019,3625.52319335938
+SD,SDN,Sudan,Sub-Saharan Africa,Low income,2020,3401.24975585938
+SD,SDN,Sudan,Sub-Saharan Africa,Low income,2021,3248.9755859375
+SD,SDN,Sudan,Sub-Saharan Africa,Low income,2022,3132.0771484375
+SD,SDN,Sudan,Sub-Saharan Africa,Low income,2023,2181.0791015625
+SD,SDN,Sudan,Sub-Saharan Africa,Low income,2024,1861.39794921875
+SD,SDN,Sudan,Sub-Saharan Africa,Low income,2025,1873.38562011719
+SR,SUR,Suriname,Latin America & Caribbean,Upper middle income,2018,22938.53537155452
+SR,SUR,Suriname,Latin America & Caribbean,Upper middle income,2019,22966.74059991245
+SR,SUR,Suriname,Latin America & Caribbean,Upper middle income,2020,19091.361718422617
+SR,SUR,Suriname,Latin America & Caribbean,Upper middle income,2021,18458.23499968104
+SR,SUR,Suriname,Latin America & Caribbean,Upper middle income,2022,18742.587376036852
+SR,SUR,Suriname,Latin America & Caribbean,Upper middle income,2023,19020.86637510091
+SR,SUR,Suriname,Latin America & Caribbean,Upper middle income,2024,19179.101839105962
+SR,SUR,Suriname,Latin America & Caribbean,Upper middle income,2025,19357.390796931806
+SE,SWE,Sweden,Europe & Central Asia,High income,2018,60124.57119941789
+SE,SWE,Sweden,Europe & Central Asia,High income,2019,61070.5243445838
+SE,SWE,Sweden,Europe & Central Asia,High income,2020,59458.280529196934
+SE,SWE,Sweden,Europe & Central Asia,High income,2021,62190.85269838252
+SE,SWE,Sweden,Europe & Central Asia,High income,2022,62544.50022486441
+SE,SWE,Sweden,Europe & Central Asia,High income,2023,62122.5116950792
+SE,SWE,Sweden,Europe & Central Asia,High income,2024,62558.406587604055
+SE,SWE,Sweden,Europe & Central Asia,High income,2025,63362.4612808079
+CH,CHE,Switzerland,Europe & Central Asia,High income,2018,81371.8944120855
+CH,CHE,Switzerland,Europe & Central Asia,High income,2019,81694.63065231395
+CH,CHE,Switzerland,Europe & Central Asia,High income,2020,79270.8713687141
+CH,CHE,Switzerland,Europe & Central Asia,High income,2021,83524.98328801953
+CH,CHE,Switzerland,Europe & Central Asia,High income,2022,85762.28291743038
+CH,CHE,Switzerland,Europe & Central Asia,High income,2023,85383.35645040081
+CH,CHE,Switzerland,Europe & Central Asia,High income,2024,85448.05855770072
+CH,CHE,Switzerland,Europe & Central Asia,High income,2025,85732.10975352318
+SY,SYR,Syrian Arab Republic,Middle East & North Africa,Low income,2018,5061.493994245619
+SY,SYR,Syrian Arab Republic,Middle East & North Africa,Low income,2019,4928.028854120282
+SY,SYR,Syrian Arab Republic,Middle East & North Africa,Low income,2020,4810.610726325985
+SY,SYR,Syrian Arab Republic,Middle East & North Africa,Low income,2021,4765.529113577025
+SY,SYR,Syrian Arab Republic,Middle East & North Africa,Low income,2022,4579.439736333409
+TJ,TJK,Tajikistan,Europe & Central Asia,Lower middle income,2018,3479.6923596604056
+TJ,TJK,Tajikistan,Europe & Central Asia,Lower middle income,2019,3649.883755186463
+TJ,TJK,Tajikistan,Europe & Central Asia,Lower middle income,2020,3724.7489591465974
+TJ,TJK,Tajikistan,Europe & Central Asia,Lower middle income,2021,3985.9124761121852
+TJ,TJK,Tajikistan,Europe & Central Asia,Lower middle income,2022,4213.756183626869
+TJ,TJK,Tajikistan,Europe & Central Asia,Lower middle income,2023,4472.324137877705
+TJ,TJK,Tajikistan,Europe & Central Asia,Lower middle income,2024,4755.932967047187
+TJ,TJK,Tajikistan,Europe & Central Asia,Lower middle income,2025,5061.847006236489
+TZ,TZA,Tanzania,Sub-Saharan Africa,Lower middle income,2018,3392.68872070313
+TZ,TZA,Tanzania,Sub-Saharan Africa,Lower middle income,2019,3484.63256835938
+TZ,TZA,Tanzania,Sub-Saharan Africa,Lower middle income,2020,3449.82153320313
+TZ,TZA,Tanzania,Sub-Saharan Africa,Lower middle income,2021,3493.0830078125
+TZ,TZA,Tanzania,Sub-Saharan Africa,Lower middle income,2022,3546.98095703125
+TZ,TZA,Tanzania,Sub-Saharan Africa,Lower middle income,2023,3620.79345703125
+TZ,TZA,Tanzania,Sub-Saharan Africa,Lower middle income,2024,3713.26293945313
+TZ,TZA,Tanzania,Sub-Saharan Africa,Lower middle income,2025,3820.61181640625
+TH,THA,Thailand,East Asia & Pacific,Upper middle income,2018,20882.170741957634
+TH,THA,Thailand,East Asia & Pacific,Upper middle income,2019,21280.150451860092
+TH,THA,Thailand,East Asia & Pacific,Upper middle income,2020,19950.284406314742
+TH,THA,Thailand,East Asia & Pacific,Upper middle income,2021,20236.976040878446
+TH,THA,Thailand,East Asia & Pacific,Upper middle income,2022,20768.480009357656
+TH,THA,Thailand,East Asia & Pacific,Upper middle income,2023,21245.270677187928
+TH,THA,Thailand,East Asia & Pacific,Upper middle income,2024,21882.214247483254
+TH,THA,Thailand,East Asia & Pacific,Upper middle income,2025,22431.75183808476
+TL,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,2018,4188.840991913375
+TL,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,2019,5103.149642922074
+TL,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,2020,6594.881707845197
+TL,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,2021,6825.045808599503
+TL,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,2022,5348.49182701353
+TL,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,2023,4331.077925603865
+TL,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,2024,3890.957546534528
+TL,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,2025,4109.904478528903
+TG,TGO,Togo,Sub-Saharan Africa,Lower middle income,2018,2787.5639840975896
+TG,TGO,Togo,Sub-Saharan Africa,Lower middle income,2019,2862.626611603314
+TG,TGO,Togo,Sub-Saharan Africa,Lower middle income,2020,2861.2979624051295
+TG,TGO,Togo,Sub-Saharan Africa,Lower middle income,2021,2952.097300669849
+TG,TGO,Togo,Sub-Saharan Africa,Lower middle income,2022,3086.408787423343
+TG,TGO,Togo,Sub-Saharan Africa,Lower middle income,2023,3215.8230002248797
+TG,TGO,Togo,Sub-Saharan Africa,Lower middle income,2024,3351.249931119388
+TG,TGO,Togo,Sub-Saharan Africa,Lower middle income,2025,3485.9818451207384
+TO,TON,Tonga,East Asia & Pacific,Upper middle income,2018,6885.984904697184
+TO,TON,Tonga,East Asia & Pacific,Upper middle income,2019,6859.717398517864
+TO,TON,Tonga,East Asia & Pacific,Upper middle income,2020,6981.304364536291
+TO,TON,Tonga,East Asia & Pacific,Upper middle income,2021,6930.064825186633
+TO,TON,Tonga,East Asia & Pacific,Upper middle income,2022,6811.48234641523
+TO,TON,Tonga,East Asia & Pacific,Upper middle income,2023,7031.320217046881
+TO,TON,Tonga,East Asia & Pacific,Upper middle income,2024,7180.98743332878
+TO,TON,Tonga,East Asia & Pacific,Upper middle income,2025,7412.8664196882855
+TT,TTO,Trinidad and Tobago,Latin America & Caribbean,High income,2018,33710.017854000784
+TT,TTO,Trinidad and Tobago,Latin America & Caribbean,High income,2019,33748.706084992446
+TT,TTO,Trinidad and Tobago,Latin America & Caribbean,High income,2020,30720.887693604225
+TT,TTO,Trinidad and Tobago,Latin America & Caribbean,High income,2021,30482.120179863054
+TT,TTO,Trinidad and Tobago,Latin America & Caribbean,High income,2022,30784.11125803557
+TT,TTO,Trinidad and Tobago,Latin America & Caribbean,High income,2023,31196.60355471798
+TT,TTO,Trinidad and Tobago,Latin America & Caribbean,High income,2024,31960.156888898287
+TT,TTO,Trinidad and Tobago,Latin America & Caribbean,High income,2025,31721.575741123605
+TN,TUN,Tunisia,Middle East & North Africa,Lower middle income,2018,13163.195223035675
+TN,TUN,Tunisia,Middle East & North Africa,Lower middle income,2019,13243.902423324596
+TN,TUN,Tunisia,Middle East & North Africa,Lower middle income,2020,11955.59836984789
+TN,TUN,Tunisia,Middle East & North Africa,Lower middle income,2021,12444.3264026887
+TN,TUN,Tunisia,Middle East & North Africa,Lower middle income,2022,12712.223454530023
+TN,TUN,Tunisia,Middle East & North Africa,Lower middle income,2023,12650.961515816594
+TN,TUN,Tunisia,Middle East & North Africa,Lower middle income,2024,12774.915856802114
+TN,TUN,Tunisia,Middle East & North Africa,Lower middle income,2025,13017.634042297692
+TR,TUR,Türkiye,Europe & Central Asia,Upper middle income,2018,28780.30364581514
+TR,TUR,Türkiye,Europe & Central Asia,Upper middle income,2019,28741.05350827015
+TR,TUR,Türkiye,Europe & Central Asia,Upper middle income,2020,28976.717916161066
+TR,TUR,Türkiye,Europe & Central Asia,Upper middle income,2021,32105.547440050563
+TR,TUR,Türkiye,Europe & Central Asia,Upper middle income,2022,33520.811138420824
+TR,TUR,Türkiye,Europe & Central Asia,Upper middle income,2023,35069.17017146847
+TR,TUR,Türkiye,Europe & Central Asia,Upper middle income,2024,36154.490436557004
+TR,TUR,Türkiye,Europe & Central Asia,Upper middle income,2025,37300.74857393543
+TM,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,2018,14499.168437760627
+TM,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,2019,15080.903400769335
+TM,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,2020,15630.914519252932
+TM,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,2021,16259.870005188437
+TM,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,2022,16943.604603714073
+TM,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,2023,17685.85859292817
+TM,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,2024,18470.743845074405
+TM,TKM,Turkmenistan,Europe & Central Asia,Upper middle income,2025,19313.94302620247
+TC,TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,2018,30286.119611215126
+TC,TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,2019,30611.21302373811
+TC,TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,2020,19702.536819685523
+TC,TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,2021,25056.488051556884
+TC,TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,2022,28209.624253607893
+TC,TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,2023,31839.37053819695
+TC,TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,2024,33390.526714805885
+TV,TUV,Tuvalu,East Asia & Pacific,Upper middle income,2018,4785.232899650775
+TV,TUV,Tuvalu,East Asia & Pacific,Upper middle income,2019,5515.899537207935
+TV,TUV,Tuvalu,East Asia & Pacific,Upper middle income,2020,5442.363211212934
+TV,TUV,Tuvalu,East Asia & Pacific,Upper middle income,2021,5551.808419992477
+TV,TUV,Tuvalu,East Asia & Pacific,Upper middle income,2022,5044.539845789113
+TV,TUV,Tuvalu,East Asia & Pacific,Upper middle income,2023,5315.163010281039
+TV,TUV,Tuvalu,East Asia & Pacific,Upper middle income,2024,5592.187236026594
+TV,TUV,Tuvalu,East Asia & Pacific,Upper middle income,2025,5776.078493848446
+UG,UGA,Uganda,Sub-Saharan Africa,Low income,2018,2613.8797641396313
+UG,UGA,Uganda,Sub-Saharan Africa,Low income,2019,2689.4100914491924
+UG,UGA,Uganda,Sub-Saharan Africa,Low income,2020,2678.009072022927
+UG,UGA,Uganda,Sub-Saharan Africa,Low income,2021,2684.9203593974353
+UG,UGA,Uganda,Sub-Saharan Africa,Low income,2022,2724.9060956840863
+UG,UGA,Uganda,Sub-Saharan Africa,Low income,2023,2791.0557688586127
+UG,UGA,Uganda,Sub-Saharan Africa,Low income,2024,2879.670092903761
+UG,UGA,Uganda,Sub-Saharan Africa,Low income,2025,2980.3794213550145
+UA,UKR,Ukraine,Europe & Central Asia,Upper middle income,2018,16978.984375
+UA,UKR,Ukraine,Europe & Central Asia,Upper middle income,2019,17636.5546875
+UA,UKR,Ukraine,Europe & Central Asia,Upper middle income,2020,17092.5390625
+UA,UKR,Ukraine,Europe & Central Asia,Upper middle income,2021,17846.408203125
+UA,UKR,Ukraine,Europe & Central Asia,Upper middle income,2022,13787.12109375
+UA,UKR,Ukraine,Europe & Central Asia,Upper middle income,2023,15916.9580078125
+UA,UKR,Ukraine,Europe & Central Asia,Upper middle income,2024,16371.44140625
+UA,UKR,Ukraine,Europe & Central Asia,Upper middle income,2025,16155.0732421875
+AE,ARE,United Arab Emirates,Middle East & North Africa,High income,2018,72671.07872887644
+AE,ARE,United Arab Emirates,Middle East & North Africa,High income,2019,72822.94664389215
+AE,ARE,United Arab Emirates,Middle East & North Africa,High income,2020,66808.62092560282
+AE,ARE,United Arab Emirates,Middle East & North Africa,High income,2021,68580.13129126764
+AE,ARE,United Arab Emirates,Middle East & North Africa,High income,2022,70075.63837394999
+AE,ARE,United Arab Emirates,Middle East & North Africa,High income,2023,70239.83283372284
+AE,ARE,United Arab Emirates,Middle East & North Africa,High income,2024,69701.78583552502
+GB,GBR,United Kingdom,Europe & Central Asia,High income,2018,52983.03954119698
+GB,GBR,United Kingdom,Europe & Central Asia,High income,2019,53374.09276284817
+GB,GBR,United Kingdom,Europe & Central Asia,High income,2020,47930.5490378931
+GB,GBR,United Kingdom,Europe & Central Asia,High income,2021,51840.44242455153
+GB,GBR,United Kingdom,Europe & Central Asia,High income,2022,53979.76791162336
+GB,GBR,United Kingdom,Europe & Central Asia,High income,2023,53423.422633829156
+GB,GBR,United Kingdom,Europe & Central Asia,High income,2024,53412.06471635891
+GB,GBR,United Kingdom,Europe & Central Asia,High income,2025,53993.117260788495
+US,USA,United States,North America,High income,2018,67728.44249210236
+US,USA,United States,North America,High income,2019,69121.45800167408
+US,USA,United States,North America,High income,2020,67406.8311325507
+US,USA,United States,North America,High income,2021,71441.23198059498
+US,USA,United States,North America,High income,2022,72828.74309071893
+US,USA,United States,North America,High income,2023,74351.6718197429
+US,USA,United States,North America,High income,2024,75698.1773354629
+US,USA,United States,North America,High income,2025,76931.31069904083
+UY,URY,Uruguay,Latin America & Caribbean,High income,2018,29757.92760554146
+UY,URY,Uruguay,Latin America & Caribbean,High income,2019,30010.562883429426
+UY,URY,Uruguay,Latin America & Caribbean,High income,2020,27788.174960019605
+UY,URY,Uruguay,Latin America & Caribbean,High income,2021,29431.873883336113
+UY,URY,Uruguay,Latin America & Caribbean,High income,2022,30840.07098276756
+UY,URY,Uruguay,Latin America & Caribbean,High income,2023,31100.96968898817
+UY,URY,Uruguay,Latin America & Caribbean,High income,2024,32149.480073985993
+UY,URY,Uruguay,Latin America & Caribbean,High income,2025,32741.624687790783
+UZ,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,2018,8742.549199121602
+UZ,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,2019,9169.011475083511
+UZ,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,2020,9145.23119844239
+UZ,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,2021,9705.600545656924
+UZ,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,2022,10091.38778699989
+UZ,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,2023,10514.09557214471
+UZ,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,2024,10997.170729164414
+UZ,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,2025,11622.855624353117
+VU,VUT,Vanuatu,East Asia & Pacific,Lower middle income,2018,3951.18453122592
+VU,VUT,Vanuatu,East Asia & Pacific,Lower middle income,2019,3986.656200214719
+VU,VUT,Vanuatu,East Asia & Pacific,Lower middle income,2020,3671.9739056530307
+VU,VUT,Vanuatu,East Asia & Pacific,Lower middle income,2021,3546.080218968717
+VU,VUT,Vanuatu,East Asia & Pacific,Lower middle income,2022,3658.518711820463
+VU,VUT,Vanuatu,East Asia & Pacific,Lower middle income,2023,3782.8264902941787
+VU,VUT,Vanuatu,East Asia & Pacific,Lower middle income,2024,3837.039374460482
+VU,VUT,Vanuatu,East Asia & Pacific,Lower middle income,2025,3866.998149016736
+VN,VNM,Viet Nam,East Asia & Pacific,Upper middle income,2018,10936.893785955768
+VN,VNM,Viet Nam,East Asia & Pacific,Upper middle income,2019,11628.613914745056
+VN,VNM,Viet Nam,East Asia & Pacific,Upper middle income,2020,11851.396568564898
+VN,VNM,Viet Nam,East Asia & Pacific,Upper middle income,2021,12048.901993553598
+VN,VNM,Viet Nam,East Asia & Pacific,Upper middle income,2022,12979.763898371073
+VN,VNM,Viet Nam,East Asia & Pacific,Upper middle income,2023,13534.799784301644
+VN,VNM,Viet Nam,East Asia & Pacific,Upper middle income,2024,14396.421736947304
+VN,VNM,Viet Nam,East Asia & Pacific,Upper middle income,2025,15457.349940354665
+VI,VIR,Virgin Islands (US),Latin America & Caribbean,High income,2018,44205.40713243939
+VI,VIR,Virgin Islands (US),Latin America & Caribbean,High income,2019,45632.636471569254
+VI,VIR,Virgin Islands (US),Latin America & Caribbean,High income,2020,45055.78293035233
+VI,VIR,Virgin Islands (US),Latin America & Caribbean,High income,2021,46893.54969887414
+VI,VIR,Virgin Islands (US),Latin America & Caribbean,High income,2022,46479.299668532636
+PS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,2018,6342.937480085202
+PS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,2019,6269.891345279849
+PS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,2020,5423.682546531257
+PS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,2021,5663.121607435843
+PS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,2022,5753.083958993073
+PS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,2023,5562.42442563953
+PS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,2024,4190.909113336262
+PS,PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,2025,4272.457620770194
+ZM,ZMB,Zambia,Sub-Saharan Africa,Lower middle income,2018,3646.959664816546
+ZM,ZMB,Zambia,Sub-Saharan Africa,Lower middle income,2019,3591.5641888310797
+ZM,ZMB,Zambia,Sub-Saharan Africa,Lower middle income,2020,3391.5954115609516
+ZM,ZMB,Zambia,Sub-Saharan Africa,Lower middle income,2021,3503.034914183715
+ZM,ZMB,Zambia,Sub-Saharan Africa,Lower middle income,2022,3585.1237908434655
+ZM,ZMB,Zambia,Sub-Saharan Africa,Lower middle income,2023,3673.4841969922013
+ZM,ZMB,Zambia,Sub-Saharan Africa,Lower middle income,2024,3708.069042956468
+ZM,ZMB,Zambia,Sub-Saharan Africa,Lower middle income,2025,3742.2564631649175
+ZW,ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,2018,5415.493220281926
+ZW,ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,2019,4993.865469282076
+ZW,ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,2020,4527.7394921925425
+ZW,ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,2021,4827.109601659941
+ZW,ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,2022,5036.7831773223925
+ZW,ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,2023,5218.04526596398
+ZW,ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,2024,5211.897555879542
+ZW,ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,2025,5529.233100161538

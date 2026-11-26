@@ -1,0 +1,8 @@
+developer    #papers
+Meta         15,126
+Alibaba       8,788
+Mistral AI    5,359
+Google        4,372
+DeepSeek      3,815
+Microsoft     1,747
+Others       12,504

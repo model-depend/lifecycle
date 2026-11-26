@@ -1,0 +1,7 @@
+papers using >=1 open-weight LLM   22,883 (30.9% of all; 53.6% of the LLM era)
+distinct open-weight models per paper   mean 4.5, median 3
+papers with >=1 sized open-weight model  20,191 (88.2%)
+size of distinct sized models per paper  mean 24.9B, SD 58.9
+open-weight mentions                     126,841, sized 102,642 (80.9%)
+  7-8B share of sized mentions           44.1%
+  median size of sized mentions          8B
